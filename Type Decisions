@@ -1,0 +1,56 @@
+
+##### General type decisions for non-527 Data:
+(1) Will include candidate's own spending, might be useful
+(2) Will not count loan repayments. Too confusing, and also loans probably influence candidates too.
+
+All spending types (if not included, surrounded by parens)
+10,10J,11,11J,12,13,15,15C,15E,15F,15I,(15J,15T,15Z),16C,16F,16G,16H,(16J,16K,16L,16R,16U,17R,17U,17Y,17Z),18G,18H,18J,18K
+18L,18U,19,19J,20,(20A,20B,20C,20D,20F,20G,20R,20V,20Y),21Y,(22G),22H,22J,22K,22L,22R,22U,22X,(22Y),22Z,23Y,24A,24C,24E,24F,
+24G,24H,24I,24K,24N,24P,24R,24T,24U,24Z,28L,29,30,30T,30K,30G,30J,30F,31,31T,31K,31G,31J,31F,32,32T,32K,32G,32J,32F,
+40,40Y,40T,40Z,41,41Y,41T,41Z,42,42Y,42T,42Z
+
+For Spending Types:
+['10 ', '10J', '11 ', '11J', '12 ', '13 ', '15 ', '15C', '15E', '15J', '15Z', '16C', '16F', '16G', '16H',
+'18G', '18H', '18J', '18K','18L,', '18U', '19', '19J', '20 ', '21Y', '22H', '22Y', '22Z', '23Y',
+'24C', '24E', '24F', '24G', '24H', '24I', 24K', '24P', '24R', '24T', '24U',  '24Z', '28L', '29 ',
+'30 ', '30T', '30K', '30G', '30J', '30F', '31 ', '31T', '31K', '31G', '31J', '31F', '32', '32T', '32K', '32G', '32J', '32F',
+'40 ', '40Y', '40T', '40Z', '41 ', '41Y', '41T', '41Z', '42 ', '42Y', '42T', '42Z']
+
+Against Spending Types:
+['24A',24N']
+
+Justifications:
+12 is for levin funds. There are 0 examples of this, only used by local/districts. I suppose if a candidate has a levin
+fund used for FEA, it can be included.
+13 is for inaugaral donations. Quick research indicates that companies use this to get on board with presidents, for
+example. There are 0 examples but we'll count it just in case.
+Will count 15E. Note intermediaries are in the otherID column. CandID should be recipId if it's earmarked to a cand.
+WILL NOT count 15I, and 15T, which are earmarked contributions that do not go to specific candidates. There
+are no examples of these anyway, however.
+There are no examples of 15F. It's kind of confusing, so I won't count it. We generally don't care if loans are forgiven
+or not anyway.
+There are no examples of 16J,K,L, which are all repayments, and we will not count them. 16H is a loan from a registered
+filer, there are no examples but we will count it. There are no examples of 16R/U, but they seem like they would be
+double counted, so we will not count them.
+No examples of 17R,17U,17Y,17Z. Will not include them,
+No examples of 18H,L,U, but they see pretty clearly worth counting.
+No examples for 20A,V,D,B,Y (Y is a refund for nofederal): All nonfederal spending, not for federal candidates, won't count it.
+We'll count 20 on the occassion it goes to a nonfederal candidate (or federal under some exception) but type
+20 is only pre-2002, so it shouldn't show up.
+Lots of examples of 20C,F,G. Will not count them as they're repayments.
+No examples of 22J,K,L. Will not count them - they're repayments anyway.
+No examples of 22U,R,X. Will not count. These are to unregistered entities - candidates will be registered, and if the
+cand is making the loan, we don't care.
+No examples of 22G, we don't care if the candidate is loaning individuals money, so we won't count it.
+21Y,22Y,Z,23Y: all negative/refunds, will count (add).
+No examples of 28L: however, most refunds are negative, so we'll add it in.
+29: no examples, seems like it ought to be added in
+All 30's,31's,32's: seem like they ought to be added in, unlikely any will go to candidates however.
+
+#####General Type Decisions for 527 Data:
+For per candidate spending: we can only include expenditure codes that are for contributions and campaign expenses. Contributions for
+media and campaign expenses simply won't show up for candidates.
+
+
+We only include expenditures codes for media, contributions, campaign expenses, and strategy/research. You can find this
+in the inputs file.

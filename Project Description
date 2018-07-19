@@ -1,0 +1,34 @@
+-- This is pretty out of date but somewhat useful still --
+
+Everything that's old is in the "old" directory.
+
+Overall Structure:
+inputs = basic inputs, creates filepaths based off the year you put in
+processing = data processing
+classes has the classes
+candDic creates dictionaries and lists necessary to do the necessary addition
+otherdic creates a name-based dictionary for 527 cmtes, which we can then use to run through the 527 expenditures. Note a key limitation is that the 527 expenditures are not yet updated for the 2016 cycle.
+ztypecmtedonors tells you where spending came from for ztype committees
+initializeArray actually adds everything together
+
+graphcandspending graphs candidate spending.
+
+PCA performs PCA
+
+Worries I've Addressed:
+
+DoubleCounting:
+(1): What if an individual gives to a candidate's pac, and then the candidate's pac gives to the candidate?
+Answer: this shows up only as type Z9999 which we don't include in analysis or sums anyway.
+(2) What an individual gives to a joint fundraising committee or party cmte and then the party cmte turns around and
+gives money to the candidate?
+Well, we only count money that goes directly to the candidate or to some kind of media expenditure (independent expend
+or electioneering communications). As a result,
+
+APIs for Maplight:
+
+This should get the arrays of organization’s positions on bills for any given session. Tested, it works:
+http://classic.maplight.org/services_open_api/map.bill_list_v1.json?apikey=b21174e971160ada08e57287245b2134&jurisdiction=us&session=111&include_organizations=1&has_organizations=1
+
+output:
+
