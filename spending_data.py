@@ -65,7 +65,10 @@ expends527path = "data/raw_crp_spending_data/527/expends527.txt"
 rcpts527path = "data/raw_crp_spending_data/527/rcpts527.txt"
 catcodes_path = "data/raw_crp_spending_data/CRP Industry Codes - 12.11.17.csv"
 
-class CRP_Data():
+class CRP_Spending_Data():
+    """
+    A class which organizes all the CRP Spending data. Includes methods for calculating total spending.
+    """
 
     def __init__(self, year):
 
@@ -95,66 +98,85 @@ class CRP_Data():
         cmtes = cmtes.drop_duplicates(keep = 'first') # Only drop if the entire line is duplicated
         return cmtes
 
-    def read_pacs(self):
+    def read_pacs(self, valid_types = None):
+
+        # Read in data/columns
         pacs = pd.read_csv(self.pacspath, **crp_csv_kwargs)
         pacs.columns = pacs_columns
+
+        # Format realcode and perhaps restrict only to valid spending types
         pacs['RealCode'] = pacs['RealCode'].apply(lambda x: str(x).upper())
+
+        if valid_types is not None:
+            pacs = pacs.loc[pacs['Type'].isin(valid_types)]
+
         return pacs
 
     def read_otherpacs(self):
-        otherpacs = pd.read_csv(self.otherpacspath, **crp_csv_kwargs, dtype = {7: 'str'}) # Column 7 is the zip code
+        otherpacs = pd.read_csv(self.otherpacspath, dtype = {7: 'str'}, **crp_csv_kwargs) # Column 7 is the zip code
         otherpacs.columns = otherpacs_columns
         return otherpacs
 
-    def read_indivs(self, **kwargs):
+    def read_indivs(self, valid_types = None, **kwargs):
         """
         Note that in 2016, this csv has 20 million + rows, so it might be worth reading this in in chunks with the
         nrows and skiprows argument.
+        :param valid_types: A list of types to subset to. Defaults to None.
         """
-        print('Reading individuals file for {} at time {}'.format(self.year, time.time() - self.time0))
+        #print('Reading individuals file for {} at time {}'.format(self.year, time.time() - self.time0))
         indivs = pd.read_csv(self.indivspath, **crp_csv_kwargs, **kwargs)
-        print('Finished reading individuals file for {} at time {}'.format(self.year, time.time() - self.time0))
+        #print('Finished reading individuals file for {} at time {}'.format(self.year, time.time() - self.time0))
         indivs.columns = indivs_columns
         indivs['RealCode'] = indivs['RealCode'].apply(lambda x: str(x).upper())
+
+        # Subset to valid types
+        if valid_types is not None:
+            indivs = indivs.loc[indivs['Type'].isin(valid_types)]
+
         return indivs
 
-    def tabulate_spending_totals(self, num_chunks = 10):
+    def tabulate_spending_totals(self, valid_types = None, num_chunks = 10):
 
-        # Get metadata --
 
-        # Catcodes
+        # First, deal with the contributions of "zcode committees" - these are basically shell or nested committees that
+        # themselves receive money from third parties and then transfer it to candidates. We will track which industries
+        # give money to ztype committees and then track which candidates the committees give money to. --------------
+
+        # Get the list of zcodes we'll track (we don't include Z4 and Z9, which refer to candidate or party cmtes)
         catcodes_metadata = pd.read_csv(catcodes_path)
         catcodes_list = catcodes_metadata['Catcode'].unique().tolist()
+        zcodes_list = [catcode for catcode in catcodes_list if catcode[0] == 'Z' and catcode[0:2] not in ['Z4', 'Z9']]
 
-        # Candidates
-        cands_data = self.read_cands()
-        cands_list = cands_data['CID'].unique().tolist()
-
-        # Cmtes
+        # Get all the committees with this affiliated catcode
         cmtes_data = self.read_cmtes()
-        cmtes_list = cmtes_data['CmteID'].unique().tolist()
+        zcodes_cmtes = cmtes_data.loc[cmtes_data['PrimCode'].isin(zcodes_list), 'CmteID'].values
 
-        # Start by calculating the sum of spending going directly to candidates from pacs
-        pacs_data = self.read_pacs()
-        result = pacs_data.groupby(['CID', 'RealCode'])['Amount'].sum().unstack().fillna(0)
-        print(result)
+        # Now run through spending data. We will be keeping a running total of three things. (1) Simple spending refers
+        # to spending that does not include zcode cmtes. (2) The money received by ztype cmtes (ztype_receipts)
+        # (3) The money spent by ztype cmtes (ztype_spending). We'll add them all together at the end.
 
-        # Now add individual data. Note that the NaNs induced in the .add method are a result of the fact that
-        # the result is taking a cartesian product of the realcodes and the recipids, and if there's no data in
-        # either of the initial dataframes which contains a specific combination, then it will appear na even with
-        # fill_value set to 0.
+        # -- -- -- -- -- Work through the pac data -- -- -- -- --
+        pacs_data = self.read_pacs(valid_types = valid_types)
+        ztypes_indexes = pacs_data['PACID'].isin(zcodes_cmtes)
+        simple_pacs_data = pacs_data.loc[~ztypes_indexes]
+        ztype_pacs_data = pacs_data.loc[ztypes_indexes]
 
+        # Aggregate - CID refers to CRP Candidate ID
+        simple_spending = simple_pacs_data.groupby(['CID', 'RealCode'])['Amount'].sum().unstack().fillna(0)
+        ztype_spending = ztype_pacs_data.groupby(['PACID', 'CID'])['Amount'].sum().unstack().fillna(0)
+
+        # -- -- -- -- -- Work through individual data, chunking -- -- -- -- --
         indivs_data_length = utilities.get_filelength(self.indivspath)
         chunk_size = indivs_data_length // num_chunks + 1
         for chunk_start in tqdm(np.arange(0, indivs_data_length, chunk_size)):
-            indivs_data = self.read_indivs(nrows = chunk_size, skiprows = chunk_start)
+            indivs_data = self.read_indivs(nrows = chunk_size, skiprows = chunk_start, valid_types = valid_types)
             to_add = indivs_data.groupby(['RecipID', 'RealCode'])['Amount'].sum().unstack().fillna(0)
-            result = result.add(to_add, fill_value = 0).fillna(0)
+            simple_spending = simple_spending.add(to_add, fill_value = 0).fillna(0)
 
 
 
 
-data = CRP_Data(2000)
+data = CRP_Spending_Data(2000)
 data.tabulate_spending_totals()
 
 
