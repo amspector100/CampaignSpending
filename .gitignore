@@ -1,5 +1,6 @@
 # Don't copy the data over
 data/
+Tests/
 
 # Don't copy any old scripts that I don't approve of yet
 old/

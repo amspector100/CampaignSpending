@@ -8,7 +8,7 @@ processing = data processing
 classes has the classes
 candDic creates dictionaries and lists necessary to do the necessary addition
 otherdic creates a name-based dictionary for 527 cmtes, which we can then use to run through the 527 expenditures. Note a key limitation is that the 527 expenditures are not yet updated for the 2016 cycle.
-ztypecmtedonors tells you where spending came from for ztype committees
+partycmtedonors tells you where spending came from for ztype committees
 initializeArray actually adds everything together
 
 graphcandspending graphs candidate spending.
