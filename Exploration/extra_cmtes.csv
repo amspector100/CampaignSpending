@@ -12,7 +12,6 @@ C00000729,1994,American Dental Assn,American Dental Assn,American Dental Assn,C0
 C00000794,1994,New Frontier Leadership PAC,ex-Rep. Norman Lent (R-NY),New Frontier Leadership PAC,C00000794,PI,,R,J2400,WebEC,N,0,1
 C00000885,1994,Painters & Allied Trades Union,Painters & Allied Trades Union,Painters & Allied Trades Union,C00000885,PL,,,LB100,AFP88,N,0,1
 C00000901,1994,National Assn of Home Builders,National Assn of Home Builders,National Assn of Home Builders,C00000901,PB,,,B2000,AFP88,Y,0,1
-C00000935,1994,Democratic Congressional Campaign Cmte,Democratic Congressional Campaign Cmte,Democratic Congressional Campaign Cmte,C00000935,DP,,D,Z5200,Report,N,0,1
 C00000984,1994,US Telephone Assn,,US Telephone Assn,C00000984,PB,,,C4100,Phone,N,0,1
 C00001008,1994,Louisiana Medical Society,American Medical Assn,American Medical Assn,C00001008,PB,,,H1100,WebEC,N,0,1
 C00001016,1994,Carpenters & Joiners Union,Carpenters & Joiners Union,Carpenters & Joiners Union,C00001016,PL,,,LB100,AFP/Phone,N,0,1
@@ -21,8 +20,6 @@ C00001198,1994,American Hotel & Motel Assn,,American Hotel & Motel Assn,C0000119
 C00001214,1994,Texas Medical Assn,American Medical Assn,American Medical Assn,C00001214,PB,,,H1100,AFP88,N,0,1
 C00001248,1994,Leadership Council,ex-Rep. R. Lawrence Coughlin (R-PA),Leadership Council,C00001248,PI,,R,J2400,AFP96,N,0,1
 C00001289,1994,Unocal Corp,,Unocal Corp,C00001289,PB,,,E1110,S&P94,Y,0,1
-C00001305,1994,Republican Party of Virginia,Republican Party of Virginia,Republican Party of Virginia,C00001305,RP,,R,Z5100,Report,N,0,1
-C00001313,1994,Independent Republicans of Minnesota,Republican Party of Minnesota,Republican Party of Minnesota,C00001313,RP,,R,Z5100,Report,N,0,1
 C00001354,1994,Independent Medicine's PAC-TN,American Medical Assn,American Medical Assn,C00001354,PB,,,H1100,Name,N,0,1
 C00001388,1994,Mid-America Dairymen,,Mid-America Dairymen,C00001388,PB,,,A2000,AFP88,N,0,1
 C00001420,1994,Missouri Medical Assn,American Medical Assn,American Medical Assn,C00001420,PB,,,H1100,AFP88,N,0,1
@@ -34,7 +31,6 @@ C00001727,1994,Business Industry PAC,,Business Industry PAC,C00001727,PB,,,G1300
 C00001776,1994,New Mexico Medical Assn,American Medical Assn,American Medical Assn,C00001776,PB,,,H1100,AFP88,N,0,1
 C00001818,1994,Washington Medical Assn,American Medical Assn,American Medical Assn,C00001818,PB,,,H1100,Name,N,0,1
 C00001875,1994,Savings & Community Bankers of America,Savings & Community Bankers of America,Savings & Community Bankers of America,C00001875,PB,,,F1200,AFP90,N,0,1
-C00001917,1994,Wyoming State Democratic Central Cmte,Democratic Party of Wyoming,Democratic Party of Wyoming,C00001917,DP,,D,Z5200,Report,N,0,1
 C00001966,1994,Fund for a Conservative Majority,,Fund for a Conservative Majority,C00001966,PI,,,J1100,AFP88,N,0,1
 C00002022,1994,Marine Engineers Beneficial Assn/NMU 1,Marine Engineers Beneficial Assn,Marine Engineers Beneficial Assn,C00002022,PL,,,LT500,AFP88,N,0,1
 C00002089,1994,Communications Workers of America,Communications Workers of America,Communications Workers of America,C00002089,PL,,,LC100,Phone,N,0,1
@@ -46,17 +42,14 @@ C00002469,1994,Machinists/Aerospace Workers Union,Machinists/Aerospace Workers U
 C00002766,1994,United Food & Commercial Workers Union,United Food & Commercial Workers Union,United Food & Commercial Workers Union,C00002766,PL,,,LG100,AFP88,N,0,1
 C00002790,1994,Olin Corp,,Olin Corp,C00002790,PB,,,M1000,S&P94,Y,0,1
 C00002881,1994,American Trucking Assns,,American Trucking Assns,C00002881,PB,,,T3100,AFP88,N,0,1
-C00002931,1994,National Republican Congressional Cmte,National Republican Congressional Cmte,National Republican Congressional Cmte,C00002931,RP,,R,Z5100,Report,N,0,1
 C00002956,1994,Association for the Advancement of Psychology,,Association for the Advancement of Psychology,C00002956,PB,,,H1110,Name,N,0,1
 C00002972,1994,National Rural Electric Cooperative Assn,National Rural Electric Cooperative Assn,National Rural Electric Cooperative Assn,C00002972,PB,,,E1610,AFP88,N,0,1
 C00003053,1994,Bay State Physicians PAC-MA,,Bay State Physicians PAC-MA,C00003053,PB,,,H1100,Name,N,0,1
-C00003111,1994,Republican Party of Maine,Republican Party of Maine,Republican Party of Maine,C00003111,RP,,R,Z5100,Report,N,0,1
 C00003160,1994,AFL-CIO Bldg/Construction Trades Dept,AFL-CIO,AFL-CIO,C00003160,PL,,,LB100,AFP88,N,0,1
 C00003178,1994,Minnesota Medical Assn,American Medical Assn,American Medical Assn,C00003178,PB,,,H1100,Name,N,0,1
 C00003194,1994,California Medical Assn,American Medical Assn,American Medical Assn,C00003194,PB,,,H1100,Name,N,0,1
 C00003251,1994,National Education Assn,National Education Assn,National Education Assn,C00003251,PL,,,L1300,AFP88,N,0,1
 C00003327,1994,Ohio Medical Assn,American Medical Assn,American Medical Assn,C00003327,PB,,,H1100,Name,N,0,1
-C00003418,1994,Republican National Cmte,Republican National Cmte,Republican National Cmte,C00003418,RP,,R,Z5100,Report,N,0,1
 C00003459,1994,California League of Savings Insts,Savings & Community Bankers of America,Savings & Community Bankers of America,C00003459,PB,,,F1200,AFP90,N,0,1
 C00003475,1994,South Carolina Medical Assn,American Medical Assn,American Medical Assn,C00003475,PB,,,H1100,Name,N,0,1
 C00003558,1994,National Cmte for an Effective Congress,,National Cmte for an Effective Congress,C00003558,PI,,,J1200,AFP88,N,0,1
@@ -71,7 +64,6 @@ C00003855,1994,National Confectioners Assn,,National Confectioners Assn,C0000385
 C00003863,1994,Marine Engineers Retirees Group Fund,Marine Engineers Beneficial Assn,Marine Engineers Beneficial Assn,C00003863,PL,,,LT500,Name,N,0,1
 C00003921,1994,Medical Society of DC,American Medical Assn,American Medical Assn,C00003921,PB,,,H1100,Name,N,0,1
 C00003970,1994,Iowa Medical Society,American Medical Assn,American Medical Assn,C00003970,PB,,,H1100,Name,N,0,1
-C00003988,1994,Nebraska Democratic State Central Cmte,Democratic Party of Nebraska,Democratic Party of Nebraska,C00003988,DP,,D,Z5200,Report,N,0,1
 C00004010,1994,Ohio Savings Assns League,Savings & Community Bankers of America,Savings & Community Bankers of America,C00004010,PB,,,F1200,AFP90,N,0,1
 C00004036,1994,Service Employees International Union,Service Employees International Union,Service Employees International Union,C00004036,PL,,,LG300,AFP88,N,0,1
 C00004101,1994,National Utility Contractors Assn,,National Utility Contractors Assn,C00004101,PB,,,B1000,AFP88,N,0,1
@@ -81,7 +73,6 @@ C00004325,1994,Seafarers International Union,Seafarers International Union,Seafa
 C00004440,1994,Teamsters Local 745,Teamsters Union,Teamsters Union,C00004440,PL,,,LT300,AFP90,N,0,1
 C00004473,1994,National Telephone Cooperative Assn,,National Telephone Cooperative Assn,C00004473,PB,,,C4100,NTPA89,N,0,1
 C00004515,1994,Hotel/Restaurant Employees Intl Union,,Hotel/Restaurant Employees Intl Union,C00004515,PL,,,LG100,AnRpt88,N,0,1
-C00004606,1994,Kansas Republican State Cmte,Republican Party of Kansas,Republican Party of Kansas,C00004606,RP,,R,Z5100,Report,N,0,1
 C00004804,1994,Mississippi Medical Assn,American Medical Assn,American Medical Assn,C00004804,PB,,,H1100,Name,N,0,1
 C00004812,1994,Mortgage Bankers Assn of America,Mortgage Bankers Assn of America,Mortgage Bankers Assn of America,C00004812,PB,,,F4600,AFP88,N,0,1
 C00004861,1994,Intl Ladies Garment Workers Union,Intl Ladies Garment Workers Union,Intl Ladies Garment Workers Union,C00004861,PL,,,LM100,AFP88,N,0,1
@@ -91,24 +82,16 @@ C00004960,1994,Burlington Resources,,Burlington Resources,C00004960,PB,,,E1120,S
 C00004994,1994,National Assn of Prof Insurance Agents,,National Assn of Prof Insurance Agents,C00004994,PB,,,F3100,AFP88,N,0,1
 C00005132,1994,South Dakota Medical Assn,American Medical Assn,American Medical Assn,C00005132,PB,,,H1100,Name,N,0,1
 C00005157,1994,Boilermakers Union,Boilermakers Union,Boilermakers Union,C00005157,PL,,,LM100,Name,Y,0,1
-C00005173,1994,State Democratic Exec Cmte of Alabama,Democratic Party of Alabama,Democratic Party of Alabama,C00005173,DP,,D,Z5200,Report,N,0,1
 C00005249,1994,National Assn of Life Underwriters,,National Assn of Life Underwriters,C00005249,PB,,,F3300,AFP,N,0,1
-C00005462,1994,10th Dist Repub Congressional Cmte,Republican Party of Virginia,Republican Party of Virginia,C00005462,RP,,R,Z5100,Report,N,0,1
 C00005488,1994,Illinois Medical Assn,American Medical Assn,American Medical Assn,C00005488,PB,,,H1100,AFP88,N,0,1
-C00005561,1994,Democratic Executive Cmte of Florida,Democratic Party of Florida,Democratic Party of Florida,C00005561,DP,,D,Z5200,Report,N,0,1
 C00005660,1994,American Assn/Oral & Maxillofacial Surg,,American Assn/Oral & Maxillofacial Surg,C00005660,PB,,,H1400,AFP88,N,0,1
 C00005728,1994,Clothing & Textile Workers Union,Clothing & Textile Workers Union,Clothing & Textile Workers Union,C00005728,PL,,,LM100,AFP88,N,0,1
 C00005751,1994,California Dental Assn,American Dental Assn,American Dental Assn,C00005751,PB,,,H1400,AFP90,N,0,1
-C00005785,1994,Wyoming Republican State Cmte,Republican Party of Wyoming,Republican Party of Wyoming,C00005785,RP,,R,Z5100,Report,N,0,1
-C00005801,1994,Sixth District Republican Cmte,Republican Party of Virginia,Republican Party of Virginia,C00005801,RP,,R,Z5100,Report,N,0,1
 C00005819,1994,United Republican Fund of Illinois,,United Republican Fund of Illinois,C00005819,PI,,,J1100,Name,N,0,1
-C00006049,1994,Ottawa County Republican Cmte,Republican Party of Michigan,Republican Party of Michigan,C00006049,RP,,R,Z5100,Report,N,0,1
 C00006080,1994,American Health Care Assn,American Health Care Assn,American Health Care Assn,C00006080,PB,,,H2200,AFP88,N,0,1
 C00006247,1994,Electronic Machine Furniture Workers,Communications Workers of America,Communications Workers of America,C00006247,PL,,,LC100,AFP88,Y,0,1
 C00006296,1994,Empire Dental PAC,American Dental Assn,American Dental Assn,C00006296,PB,,,H1400,Name,N,0,1
 C00006338,1994,Transportation Communications Union,,Transportation Communications Union,C00006338,PL,,,LT600,WebEC,N,0,1
-C00006486,1994,Indiana Republican State Central Cmte,Republican Party of Indiana,Republican Party of Indiana,C00006486,RP,,R,Z5100,Report,N,0,1
-C00006783,1994,Johnson County Republican Central Cmte,Republican Party of Indiana,Republican Party of Indiana,C00006783,RP,,R,Z5100,Report,N,0,1
 C00007047,1994,First Nationwide Bank,,First Nationwide Bank,C00007047,PB,,,F1000,WebGT,N,0,1
 C00007070,1994,Texas Instruments,,Texas Instruments,C00007070,PB,,,C5110,S&P94,Y,0,1
 C00007328,1994,Carpenters Union/Southern California,Carpenters & Joiners Union,Carpenters & Joiners Union,C00007328,PL,,,LB100,Name,N,0,1
@@ -116,7 +99,6 @@ C00007427,1994,SeaFirst Bank,BankAmerica,BankAmerica,C00007427,PB,,,F1100,S&P94,
 C00007450,1994,American Gas Assn,,American Gas Assn,C00007450,PB,,,E1140,AFP88,N,0,1
 C00007484,1994,Florida Medical Assn,American Medical Assn,American Medical Assn,C00007484,PB,,,H1100,AFP88,N,0,1
 C00007542,1994,Sheet Metal Workers Union,Sheet Metal Workers Union,Sheet Metal Workers Union,C00007542,PL,,,LB100,AFP88,N,0,1
-C00007658,1994,Democratic Party of South Carolina,Democratic Party of South Carolina,Democratic Party of South Carolina,C00007658,DP,,D,Z5200,Report,N,0,1
 C00007831,1994,CSX Transportation,CSX Corp,CSX Corp,C00007831,PB,,,T5100,S&P94,Y,0,1
 C00007849,1994,Speak Up for Rural Electrification,National Rural Electric Cooperative Assn,National Rural Electric Cooperative Assn,C00007849,PB,,,E1610,Name,N,0,1
 C00007880,1994,Credit Union National Assn,Credit Union National Assn,Credit Union National Assn,C00007880,PB,,,F1300,AFP88,N,0,1
@@ -124,46 +106,36 @@ C00007898,1994,Office & Professional Employees Union,Office & Professional Emplo
 C00007922,1994,Laborers Union,Laborers Union,Laborers Union,C00007922,PL,,,LB100,AFP88,N,0,1
 C00007948,1994,Weyerhaeuser Co,Weyerhaeuser Co,Weyerhaeuser Co,C00007948,PB,,,A5200,S&P94,Y,0,1
 C00008078,1994,Teamsters Union/Ohio,Teamsters Union,Teamsters Union,C00008078,PL,,,LT300,Name,N,0,1
-C00008086,1994,Montana Republican State Central Cmte,Republican Party of Montana,Republican Party of Montana,C00008086,RP,,R,Z5100,Report,N,0,1
-C00008110,1994,Democratic Party of 2nd Cong District of Wisconsin,Democratic Party of Wisconsin,Democratic Party of Wisconsin,C00008110,DP,,D,Z5200,Rept,N,0,1
 C00008151,1994,First Tennessee National Corp,,First Tennessee National Corp,C00008151,PB,,,F1100,S&P94,N,0,1
 C00008169,1994,Missouri ACRE,National Rural Electric Cooperative Assn,National Rural Electric Cooperative Assn,C00008169,PB,,,E1610,AFP88,N,0,1
-C00008227,1994,Republican Party of Arizona,Republican Party of Arizona,Republican Party of Arizona,C00008227,RP,,R,Z5100,Report,N,0,1
 C00008268,1994,Transport Workers Union,Transport Workers Union,Transport Workers Union,C00008268,PL,,,LT600,AFP88,N,0,1
 C00008425,1994,Weyerhaeuser Co,Weyerhaeuser Co,Weyerhaeuser Co,C00008425,PB,,,A5200,S&P94,Y,0,1
 C00008474,1994,Smith Barney,Travelers Group,Travelers Group,C00008474,PB,,,F2100,S&P94,N,0,1
-C00008664,1994,Missouri Republican State Cmte,Republican Party of Missouri,Republican Party of Missouri,C00008664,RP,,R,Z5100,Report,N,0,1
-C00008755,1994,Repub Pty 6th Congressional Dist of Wis,Republican Party of Wisconsin,Republican Party of Wisconsin,C00008755,RP,,R,Z5100,Report,N,0,1
 C00008839,1994,American Podiatry Assn,,American Podiatry Assn,C00008839,PB,,,H1130,AFP88,N,0,1
 C00008953,1994,LTV Corp,LTV Corp,LTV Corp,C00008953,PB,,,M2100,S&P94,Y,0,1
 C00009035,1994,Kemper Insurance,Kemper Corp,Kemper Corp,C00009035,PB,,,F3100,S&P94,N,0,1
 C00009282,1994,Norfolk Southern,Norfolk Southern,Norfolk Southern,C00009282,PB,,,T5100,S&P94,Y,0,1
 C00009357,1994,Recording Industry Assn of America,,Recording Industry Assn of America,C00009357,PB,,,C2600,NTPA89,N,0,1
 C00009423,1994,Land O'Lakes,,Land O'Lakes,C00009423,PB,,,A2000,S&P94,Y,0,1
-C00009456,1994,Third Congr District Democratic Party of Wisconsin,Democratic Party of Wisconsin,Democratic Party of Wisconsin,C00009456,DP,,D,Z5200,Report,N,0,1
 C00009597,1994,National Council of Coal Lessors,,National Council of Coal Lessors,C00009597,PB,,,E1210,NTPA89,N,0,1
 C00009639,1994,Trust Co of Georgia,SunTrust Banks,SunTrust Banks,C00009639,PB,,,F1100,S&P94,N,0,1
 C00009704,1994,Conservative Victory Fund,Conservative Victory Fund,Conservative Victory Fund,C00009704,PI,,R,J2400,Nexis,N,0,1
 C00009761,1994,Tobacco Institute,,Tobacco Institute,C00009761,PB,,,A1300,AFP88,N,0,1
 C00009795,1994,Greater Washington Board of Trade,,Greater Washington Board of Trade,C00009795,PB,,,G1100,Phone,N,0,1
-C00009845,1994,Montgomery County Democrat Central Cmte,Democratic Party of Maryland,Democratic Party of Maryland,C00009845,DP,,D,Z5200,Report,N,0,1
 C00009902,1994,Santa Fe Southern Pacific,Santa Fe Pacific Corp,Santa Fe Pacific Corp,C00009902,PB,,,T5100,S&P94,N,0,1
 C00009910,1994,Southern Pacific Transportation Co,,Southern Pacific Transportation Co,C00009910,PB,,,T5100,S&P94,N,0,1
 C00009928,1994,SmithKline Beecham,,SmithKline Beecham,C00009928,PB,,,H4300,S&P94,Y,1,1
 C00009936,1994,American Federation of Government Employees,American Federation of Government Employees,American Federation of Government Employees,C00009936,PL,,,L1100,AFP88,N,0,1
 C00009985,1994,National Assn of Broadcasters,,National Assn of Broadcasters,C00009985,PB,,,C2100,AFP88,N,0,1
-C00010033,1994,Montana Democratic Central Cmte,,Democratic Party of Montana,C00010033,DP,,D,Z5200,Report,N,0,1
 C00010082,1994,National Cable Television Assn,,National Cable Television Assn,C00010082,PB,,,C2200,AFP88,N,0,1
 C00010124,1994,Associated Equipment Distributors,,Associated Equipment Distributors,C00010124,PB,,,B6000,Phone,Y,0,1
 C00010322,1994,American Postal Workers Union,American Postal Workers Union,American Postal Workers Union,C00010322,PL,,,L1500,AFP88,N,0,1
 C00010363,1994,Conservative Leadership PAC,,Conservative Leadership PAC,C00010363,PI,,,J1100,Nexis,N,0,1
 C00010421,1994,Associated Builders & Contractors,,Associated Builders & Contractors,C00010421,PB,,,B0500,NTPA89,Y,0,1
-C00010439,1994,Democratic Party of Idaho,Democratic Party of Idaho,Democratic Party of Idaho,C00010439,DP,,D,Z5200,Report,N,0,1
 C00010470,1994,Union Pacific Corp,,Union Pacific Corp,C00010470,PB,,,T5100,S&P94,Y,0,1
 C00010488,1994,Women for:,,Women for:,C00010488,PI,,,J7400,Phone,Y,0,1
 C00010520,1994,Meredith Corp,,Meredith Corp,C00010520,PB,,,C1100,S&P94,Y,0,1
 C00010561,1994,Kansas ACRE,National Rural Electric Cooperative Assn,National Rural Electric Cooperative Assn,C00010561,PB,,,E1610,Name,N,0,1
-C00010603,1994,DNC Services Corp,Democratic National Cmte,Democratic National Cmte,C00010603,DP,,D,Z5200,Report,N,0,1
 C00010793,1994,Loose Group,,Loose Group,C00010793,PI,,,J1100,Phone,N,0,1
 C00010868,1994,American Consulting Engineers Council,,American Consulting Engineers Council,C00010868,PB,,,B4000,AFP88,Y,0,1
 C00010876,1994,Teamsters Local 115,Teamsters Union,Teamsters Union,C00010876,PL,,,LT300,Name,N,0,1
@@ -171,17 +143,14 @@ C00010967,1994,CNG Transmission Corp,Consolidated Natural Gas,Consolidated Natur
 C00010983,1994,Johnson & Johnson,,Johnson & Johnson,C00010983,PB,,,H4000,Hvr04,Y,0,1
 C00011114,1994,American Federation of State/Cnty/Munic Employees,American Federation of State/Cnty/Munic Employees,American Federation of State/Cnty/Munic Employees,C00011114,PL,,,L1200,AFP88,N,0,1
 C00011189,1994,Glass Molders Pottery Plastics Workers,,Glass Molders Pottery Plastics Workers,C00011189,PL,,,LM100,Phone,N,0,1
-C00011197,1994,Kentucky State Dem Central Exec Cmte,Democratic Party of Kentucky,Democratic Party of Kentucky,C00011197,DP,,D,Z5200,Report,N,0,1
 C00011221,1994,New Jersey Savings League,Savings & Community Bankers of America,Savings & Community Bankers of America,C00011221,PB,,,F1200,AFP88,N,0,1
 C00011262,1994,Brotherhood of Railroad Signalmen,,Brotherhood of Railroad Signalmen,C00011262,PL,,,LT400,AFP88,N,0,1
 C00011338,1994,Sailors Union of the Pacific,Seafarers International Union,Seafarers International Union,C00011338,PL,,,LT500,AFP88,N,0,1
 C00011387,1994,Colorado ACRE,National Rural Electric Cooperative Assn,National Rural Electric Cooperative Assn,C00011387,PB,,,E1610,AFP88,N,0,1
 C00011544,1994,Ohio Dental Assn,American Dental Assn,American Dental Assn,C00011544,PB,,,H1400,AFP88,N,0,1
 C00011627,1994,Minnesota Bankers Assn,American Bankers Assn,American Bankers Assn,C00011627,PB,,,F1100,,N,0,1
-C00011643,1994,Republican Cmte of Imperial County,Republican Party of California,Republican Party of California,C00011643,RP,,R,Z5100,Report,N,0,1
 C00011718,1994,Wachovia Bank of Georgia,Wachovia Corp,Wachovia Corp,C00011718,PB,,,F1100,Duns,N,0,1
 C00011783,1994,United Farm Workers of America,,United Farm Workers of America,C00011783,PL,,,LA100,Name,N,0,1
-C00011825,1994,Republican Assoc of Imperial County,Republican Party of California,Republican Party of California,C00011825,RP,,R,Z5100,Report,N,0,1
 C00011874,1994,American Business Press,,American Business Press,C00011874,PB,,,C1100,Name,N,0,1
 C00012021,1994,S&A Restaurant Corp,,S&A Restaurant Corp,C00012021,PB,,,G2900,S&P94,N,0,1
 C00012245,1994,PaineWebber,,PaineWebber,C00012245,PB,,,F2100,S&P94,N,0,1
@@ -196,11 +165,9 @@ C00012880,1994,American Physical Therapy Assn,American Physical Therapy Assn,Ame
 C00012914,1994,American Land Title Assn,,American Land Title Assn,C00012914,PB,,,F4300,AFP88,N,0,1
 C00013342,1994,United Mine Workers of America,United Mine Workers of America,United Mine Workers of America,C00013342,PL,,,LE100,AFP88,N,0,1
 C00013672,1994,Florida Dental Assn,American Dental Assn,American Dental Assn,C00013672,PB,,,H1400,Name,N,0,1
-C00013748,1994,North Dakota Democratic-Nonpartisan League Party,Democratic Party of North Dakota,Democratic Party of North Dakota,C00013748,DP,,D,Z5200,Report,N,0,1
 C00013961,1994,Sheet Metal/AC Contractors Assn,Sheet Metal/AC Contractors Assn,Sheet Metal/AC Contractors Assn,C00013961,PB,,,B3400,AFP88,N,0,1
 C00013995,1994,Midwest Resources Inc,Midwest Resources Inc,Midwest Resources Inc,C00013995,PB,,,E1620,S&P94,N,0,1
 C00014019,1994,American Cotton Shippers Assn,,American Cotton Shippers Assn,C00014019,PB,,,A1100,NTPA89,N,0,1
-C00014498,1994,Republican Party of Iowa,Republican Party of Iowa,Republican Party of Iowa,C00014498,RP,,R,Z5100,Report,N,0,1
 C00014555,1994,Food Marketing Institute,,Food Marketing Institute,C00014555,PB,,,G2400,AFP88,N,0,1
 C00014878,1994,General Aviation Manufacturers Assn,,General Aviation Manufacturers Assn,C00014878,PB,,,T1200,NTPA89,N,0,1
 C00015024,1994,Women's Campaign Fund,,Women's Campaign Fund,C00015024,PI,,,J7400,AFP88,Y,0,1
@@ -210,7 +177,6 @@ C00016386,1994,American Bakers Assn,,American Bakers Assn,C00016386,PB,,,G2100,N
 C00016444,1994,Kentucky Medical Assn,American Medical Assn,American Medical Assn,C00016444,PB,,,H1100,Name,N,0,1
 C00016550,1994,Deposit Guaranty Corp,,Deposit Guaranty Corp,C00016550,PB,,,F1100,S&P94,N,0,1
 C00016683,1994,Pfizer Inc,,Pfizer Inc,C00016683,PB,,,H4300,S&P94,Y,0,1
-C00016899,1994,Democratic Party of Ohio,Democratic Party of Ohio,Democratic Party of Ohio,C00016899,DP,,D,Z5200,Report,N,0,1
 C00017244,1994,Marine Fireman's Union,Seafarers International Union,Seafarers International Union,C00017244,PL,,,LT500,AFP88,N,0,1
 C00017343,1994,Oregon Education Assn,National Education Assn,National Education Assn,C00017343,PL,,,L1300,AFP88,N,0,1
 C00017525,1994,American Nurses Assn,American Nurses Assn,American Nurses Assn,C00017525,PB,,,H1710,AFP88,Y,0,1
@@ -224,25 +190,18 @@ C00018184,1994,Dairymen Inc-Kentucky,Dairymen Inc,Dairymen Inc,C00018184,PB,,,A2
 C00018192,1994,Dairymen Inc-Louisiana,Dairymen Inc,Dairymen Inc,C00018192,PB,,,A2000,AFP88,N,0,1
 C00018200,1994,Dairymen Inc-Mississippi,Dairymen Inc,Dairymen Inc,C00018200,PB,,,A2000,AFP88,N,0,1
 C00018366,1994,First Bank System/North Dakota,First Bank System,First Bank System,C00018366,PB,,,F1100,S&P96,N,0,1
-C00018473,1994,8th Congressional Dist Democratic Party,Democratic Party of Wisconsin,Democratic Party of Wisconsin,C00018473,DP,,D,Z5200,Report,N,0,1
-C00018929,1994,Republican Party of North Dakota,Republican Party of North Dakota,Republican Party of North Dakota,C00018929,RP,,R,Z5100,Report,N,0,1
 C00018945,1994,Dorsey & Whitney,,Dorsey & Whitney,C00018945,PB,,,K1000,MartHubb,N,0,1
 C00019083,1994,California Canning Peach Assn,,California Canning Peach Assn,C00019083,PB,,,A1400,Name,N,0,1
-C00019331,1994,Democratic Party of Wisconsin,Democratic Party of Wisconsin,Democratic Party of Wisconsin,C00019331,DP,,D,Z5200,Report,N,0,1
 C00019349,1994,First Bank System/South Dakota,First Bank System,First Bank System,C00019349,PB,,,F1100,RandMc,N,0,1
 C00019372,1994,Kaibab Industries,,Kaibab Industries,C00019372,PB,,,A5000,S&P94,Y,0,1
-C00019380,1994,Kansas Democratic State Cmte,Democratic Party of Kansas,Democratic Party of Kansas,C00019380,DP,,D,Z5200,Report,N,0,1
 C00019448,1994,Banc One Indiana,Banc One Corp,Banc One Corp,C00019448,PB,,,F1000,Name,N,0,1
 C00019653,1994,Southern California Edison,,SCEcorp,C00019653,PB,,,E1600,S&P94,Y,0,1
 C00019976,1994,Free Congress PAC,,Free Congress PAC,C00019976,PI,,,J1100,AFP88,N,0,1
 C00020206,1994,Association of American Publishers,,Association of American Publishers,C00020206,PB,,,C1100,NTPA89,N,0,1
-C00020453,1994,Cass County Republican Central Cmte,Republican Party of Indiana,Republican Party of Indiana,C00020453,RP,,R,Z5100,Report,N,0,1
-C00020818,1994,Republican Campaign Cmte of New Mexico,Republican Party of New Mexico,Republican Party of New Mexico,C00020818,RP,,R,Z5100,Report,N,0,1
 C00021089,1994,Dairymen Inc-Tennessee,Dairymen Inc,Dairymen Inc,C00021089,PB,,,A2000,AFP88,N,0,1
 C00021121,1994,New York State United Teachers,American Federation of Teachers,American Federation of Teachers,C00021121,PL,,,L1300,AFP88,N,0,1
 C00021295,1994,Bracewell & Patterson,,Bracewell & Patterson,C00021295,PB,,,K1000,Duns,N,0,1
 C00021782,1994,Taxpayers Action Fund,,Taxpayers Action Fund,C00021782,PU,, ,Y0000,NoWeb,N,0,1
-C00021824,1994,Second District Congressnl Dem Cmte-Iowa,Democratic Party of Iowa,Democratic Party of Iowa,C00021824,DP,,D,Z5200,Report,N,0,1
 C00021972,1994,Pharmaceutical Manufacturers Assn,,Pharmaceutical Manufacturers Assn,C00021972,PB,,,H4300,NTPA89,N,0,1
 C00022178,1994,American Group Practice Assn,,American Group Practice Assn,C00022178,PB,,,H1100,Phone,N,0,1
 C00022343,1994,Independent Insurance Agents of America,,Independent Insurance Agents of America,C00022343,PB,,,F3100,AFP88,N,0,1
@@ -252,14 +211,11 @@ C00022988,1994,American Assn of Nurserymen,,American Assn of Nurserymen,C0002298
 C00022996,1994,Quaker Oats,,Quaker Oats,C00022996,PB,,,G2100,S&P94,N,0,1
 C00023028,1994,National Cotton Council,National Cotton Council,National Cotton Council,C00023028,PB,,,A1100,AFP88,N,0,1
 C00023580,1994,National Assn of Letter Carriers,National Assn of Letter Carriers,National Assn of Letter Carriers,C00023580,PL,,,L1500,AFP88,N,0,1
-C00023838,1994,Connecticut Republican Campaign Cmte,Republican Party of Connecticut,Republican Party of Connecticut,C00023838,RP,,R,Z5100,Report,N,0,1
 C00024281,1994,American Meat Institute,,American Meat Institute,C00024281,PB,,,G2300,AFP/Phone,Y,0,1
 C00024299,1994,American General Corp,American General Corp,American General Corp,C00024299,PB,,,F3100,S&P94,Y,0,1
 C00024349,1994,Alaska Airlines,,Alaska Airlines,C00024349,PB,,,T1100,S&P94,N,0,1
-C00024372,1994,Democratic Party of Arkansas,Democratic Party of Arkansas,Democratic Party of Arkansas,C00024372,DP,,D,Z5200,Report,N,0,1
 C00024422,1994,Operating Engineers Local 3,Operating Engineers Union,Operating Engineers Union,C00024422,PL,,,LB100,Phone,N,0,1
 C00024521,1994,Association of Trial Lawyers of America,Association of Trial Lawyers of America,Association of Trial Lawyers of America,C00024521,PB,,,K1100,AFP88,N,0,1
-C00024679,1994,Vermont State Democratic Cmte,Democratic Party of Vermont,Democratic Party of Vermont,C00024679,DP,,D,Z5200,Report,N,0,1
 C00024687,1994,National Conservative PAC,,National Conservative PAC,C00024687,PI,,,J1100,AFP88,N,0,1
 C00024703,1994,Deere & Co/Illinois,Deere & Co,Deere & Co,C00024703,PB,,,A4200,S&P94,Y,0,1
 C00024752,1994,Matson Navigation,Alexander & Baldwin,Alexander & Baldwin,C00024752,PB,,,T6200,S&P94,N,0,1
@@ -270,13 +226,11 @@ C00025023,1994,NL Industries,Contran Corp,Contran Corp,C00025023,PB,,,M1000,Hvr0
 C00025098,1994,Springs Industries,,Springs Industries,C00025098,PB,,,M8000,S&P94,N,0,1
 C00025163,1994,GTE Corp,GTE Corp,GTE Corp,C00025163,PB,,,C4100,S&P94,Y,0,1
 C00025205,1994,Coltec Industries,,Coltec Industries,C00025205,PB,,,T1300,S&P/Phone,Y,0,1
-C00025254,1994,Minnesota Democratic Farmer Labor Party,Democratic Party of Minnesota,Democratic Party of Minnesota,C00025254,DP,,D,Z5200,Report,N,0,1
 C00025346,1994,Sun Co,,Sun Co,C00025346,PB,,,E1160,S&P94,Y,0,1
 C00025536,1994,TRW Inc,,TRW Inc,C00025536,PB,,,D3000,S&P94,Y,0,1
 C00025668,1994,Bancorp Hawaii,,Bancorp Hawaii,C00025668,PB,,,F1100,S&P94,N,0,1
 C00027342,1994,International Brotherhood of Electrical Workers,International Brotherhood of Electrical Workers,International Brotherhood of Electrical Workers,C00027342,PL,,,LC150,Phone,N,0,1
 C00027359,1994,Ironworkers Union,Ironworkers Union,Ironworkers Union,C00027359,PL,,,LB100,AFP88,N,0,1
-C00027466,1994,National Republican Senatorial Cmte,National Republican Senatorial Cmte,National Republican Senatorial Cmte,C00027466,RP,,R,Z5100,Report,N,0,1
 C00027532,1994,American Maritime Officers,American Maritime Officers,American Maritime Officers,C00027532,PL,,,LT500,AFP88,N,0,1
 C00028670,1994,Georgia-Pacific Corp,,Georgia-Pacific Corp,C00028670,PB,,,A5000,S&P94,Y,0,1
 C00028787,1994,National Cattlemen's Assn,National Cattlemen's Assn,National Cattlemen's Assn,C00028787,PB,,,A3000,WebEC,N,0,1
@@ -288,16 +242,12 @@ C00029504,1994,Operating Engineers Union,Operating Engineers Union,Operating Eng
 C00030007,1994,Oklahoma Medical Assn,American Medical Assn,American Medical Assn,C00030007,PB,,,H1100,AFP88,N,0,1
 C00030478,1994,Brown & Root,Halliburton Co,Halliburton Co,C00030478,PB,,,B1000,S&P94,Y,0,1
 C00030593,1994,Associated Credit Bureaus,,Associated Credit Bureaus,C00030593,PB,,,F1400,NTPA89,N,0,1
-C00030627,1994,DSCC Federal Candidates Fund,Democratic Party of California,Democratic Party of California,C00030627,DP,,D,Z5200,Report,N,0,1
 C00030635,1994,"Oil, Chemical & Atomic Workers Union","Oil, Chemical & Atomic Workers Union","Oil, Chemical & Atomic Workers Union",C00030635,PL,,,LE200,AFP88,N,0,1
 C00030676,1994,USX Corp,USX Corp,USX Corp,C00030676,PB,,,E1100,S&P94,Y,0,1
 C00030718,1994,National Assn of Realtors,National Assn of Realtors,National Assn of Realtors,C00030718,PB,,,F4200,AFP88,N,0,1
 C00030734,1994,Distilled Spirits Council,,Distilled Spirits Council,C00030734,PB,,,G2820,NTPA89,N,0,1
 C00030783,1994,Lockheed Corp,,Lockheed Corp,C00030783,PB,,,D2000,S&P94,Y,0,1
 C00030809,1994,National Assn of Retail Druggists,,National Assn of Retail Druggists,C00030809,PB,,,H1750,AFP88,Y,0,1
-C00031054,1994,Michigan Democratic State Central Cmte,Democratic Party of Michigan,Democratic Party of Michigan,C00031054,DP,,D,Z5200,Report,N,0,1
-C00031088,1994,Washington State Republican Party,Republican Party of Washington,Republican Party of Washington,C00031088,RP,,R,Z5100,Report,N,0,1
-C00032334,1994,Nebraska Republican Campaign Cmte,Republican Party of Nebraska,Republican Party of Nebraska,C00032334,RP,,R,Z5100,Report,N,0,1
 C00032391,1994,Trans World Airlines,,Trans World Airlines,C00032391,PB,,,T1100,S&P94,N,0,1
 C00032441,1994,American Textile Manufacturers Institute,,American Textile Manufacturers Institute,C00032441,PB,,,M8000,AFP88,N,0,1
 C00032573,1994,Coors Brewing,,Adolph Coors Co,C00032573,PB,,,G2810,S&P94,N,0,1
@@ -312,9 +262,7 @@ C00032995,1994,Amalgamated Transit Union,Amalgamated Transit Union,Amalgamated T
 C00033027,1994,Automotive Service Assn,,Automotive Service Assn,C00033027,PB,,,T2400,NTPA89,N,0,1
 C00033084,1994,JC Nichols Co,,JC Nichols Co,C00033084,PB,,,F4100,S&P94,N,0,1
 C00033092,1994,Winn-Dixie Stores,,Winn-Dixie Stores,C00033092,PB,,,G2400,S&P94,N,0,1
-C00033134,1994,Colorado Republican Campaign Cmte,Republican Party of Colorado,Republican Party of Colorado,C00033134,RP,,R,Z5100,Report,N,0,1
 C00033423,1994,Household International,,Household International,C00033423,PB,,,F1400,S&P94,Y,0,1
-C00033431,1994,Tenth Congressional District Democratic Cmte,Democratic Party of Michigan,Democratic Party of Michigan,C00033431,DP,,D,Z5200,Report,N,0,1
 C00033456,1994,Phelps Dodge Corp,,Phelps Dodge Corp,C00033456,PB,,,E1220,S&P94,N,0,1
 C00033530,1994,BP America,,British Petroleum,C00033530,PB,,,E1110,Hvr04,Y,1,1
 C00033548,1994,First Hawaiian Inc,,First Hawaiian Inc,C00033548,PB,,,F1100,S&P94,N,0,1
@@ -327,7 +275,6 @@ C00033795,1994,Arizona Cotton Growers Assn,National Cotton Council,National Cott
 C00033944,1994,American Feed Industry Assn,,American Feed Industry Assn,C00033944,PB,,,A3100,NTPA89,N,0,1
 C00033969,1994,Ciba-Geigy Corp,,Ciba-Geigy Corp,C00033969,PB,,,H4300,Phone,Y,1,1
 C00033977,1994,RR Donnelley & Sons,,RR Donnelley & Sons,C00033977,PB,,,C1300,S&P94,Y,0,1
-C00034033,1994,Republican Party of South Carolina,Republican Party of South Carolina,Republican Party of South Carolina,C00034033,RP,,R,Z5100,Report,N,0,1
 C00034066,1994,Hospital & Health Care Employees 1199C,American Federation of State/Cnty/Munic Employees,American Federation of State/Cnty/Munic Employees,C00034066,PL,,,LH100,Name,N,0,1
 C00034124,1994,Dow Chemical/Eastern Employees,Dow Chemical,Dow Chemical,C00034124,PB,,,M1000,S&P94,Y,0,1
 C00034132,1994,Fluor Corp,Fluor Corp,Fluor Corp,C00034132,PB,,,B1000,S&P94,Y,0,1
@@ -364,8 +311,6 @@ C00035501,1994,Comerica Inc,,Comerica Inc,C00035501,PB,,,F1100,S&P94,N,0,1
 C00035519,1994,PNC Bank Corp,PNC Bank Corp,PNC Bank Corp,C00035519,PB,,,F1100,S&P94,N,0,1
 C00035527,1994,Occidental Oil & Gas,Occidental Petroleum,Occidental Petroleum,C00035527,PB,,,E1110,S&P94,Y,0,1
 C00035535,1994,Consumer Bankers Assn,,Consumer Bankers Assn,C00035535,PB,,,F1000,NTPA89,N,0,1
-C00035600,1994,Democratic Party of Iowa,Democratic Party of Iowa,Democratic Party of Iowa,C00035600,DP,,D,Z5200,Report,N,0,1
-C00035618,1994,Vermont Republican Federal Elections Cmte,Republican Party of Vermont,Republican Party of Vermont,C00035618,RP,,R,Z5100,Report,N,0,1
 C00035667,1994,Litton Industries,,Litton Industries,C00035667,PB,,,D3000,S&P94,Y,0,1
 C00035675,1994,Bristol-Myers Squibb,,Bristol-Myers Squibb,C00035675,PB,,,H4300,S&P94,Y,0,1
 C00035683,1994,United Technologies,United Technologies,United Technologies,C00035683,PB,,,D2000,S&P94,Y,0,1
@@ -374,7 +319,6 @@ C00035766,1994,Oregon Medical Assn,American Medical Assn,American Medical Assn,C
 C00035774,1994,Magazine Publishers Assn,,Magazine Publishers Assn,C00035774,PB,,,C1100,NTPA89,N,0,1
 C00035857,1994,Wheeling-Pittsburgh Steel,,Wheeling-Pittsburgh Steel,C00035857,PB,,,M2100,S&P94,N,0,1
 C00038471,1994,Rockwell International,,Rockwell International,C00038471,PB,,,D2000,S&P94,Y,0,1
-C00038505,1994,North Carolina Republican Executive Cmte,Republican Party of North Carolina,Republican Party of North Carolina,C00038505,RP,,R,Z5100,Report,N,0,1
 C00038604,1994,American Financial Services Assn,,American Financial Services Assn,C00038604,PB,,,F1400,AFP88,N,0,1
 C00038794,1994,Dravo Corp,,Dravo Corp,C00038794,PB,,,E1230,S&P94,Y,0,1
 C00038927,1994,Supima Assn of America,,Supima Assn of America,C00038927,PB,,,A1100,NTPA89,N,0,1
@@ -395,7 +339,6 @@ C00039941,1994,Arizona Bankers Assn,American Bankers Assn,American Bankers Assn,
 C00040006,1994,NBD Bancorp,,NBD Bancorp,C00040006,PB,,,F1100,Mil$D,N,0,1
 C00040014,1994,Chicago & North Western Transport,,Chicago & North Western Transport,C00040014,PB,,,T5100,S&P94,N,0,1
 C00040170,1994,USAir Corp,,USAir Corp,C00040170,PB,,,T1100,S&P94,N,0,1
-C00040220,1994,Republican Party of Tennessee,Republican Party of Tennessee,Republican Party of Tennessee,C00040220,RP,,R,Z5100,Report,N,0,1
 C00040238,1994,Burlington Industries,,Burlington Industries,C00040238,PB,,,M8000,S&P94,Y,0,1
 C00040246,1994,Dow Corning,Dow Chemical/Corning,Dow Chemical/Corning,C00040246,PB,,,M1500,S&P94,N,0,1
 C00040253,1994,Allstate Insurance,"Sears, Roebuck & Co","Sears, Roebuck & Co",C00040253,PB,,,F3100,S&P94,N,0,1
@@ -413,15 +356,12 @@ C00040659,1994,National Assn of Federal Credit Unions,,National Assn of Federal 
 C00040667,1994,McDonnell Douglas,McDonnell Douglas,McDonnell Douglas,C00040667,PB,,,D2000,S&P94,Y,0,1
 C00040717,1994,Dairymen Inc-Georgia,Dairymen Inc,Dairymen Inc,C00040717,PB,,,A2000,AFP88,N,0,1
 C00040725,1994,United Fresh Fruit & Vegetable Assn,,United Fresh Fruit & Vegetable Assn,C00040725,PB,,,G2500,NTPA89,Y,0,1
-C00040857,1994,Oakland Democratic Campaign Cmte,Democratic Party of Michigan,Democratic Party of Michigan,C00040857,DP,,D,Z5200,Report,N,0,1
 C00040881,1994,Ohio ACRE,National Rural Electric Cooperative Assn,National Rural Electric Cooperative Assn,C00040881,PB,,,E1610,NTPA00,N,0,1
 C00040907,1994,PanEnergy Corp,,PanEnergy Corp,C00040907,PB,,,E1140,S&P94,N,0,1
 C00040923,1994,Metropolitan Life Insurance,Metropolitan Life,Metropolitan Life,C00040923,PB,,,F3300,S&P94,Y,0,1
 C00040998,1994,National Auto Dealers Assn,,National Auto Dealers Assn,C00040998,PB,,,T2300,AFP88,N,0,1
 C00041061,1994,American Pilots Assn,,American Pilots Assn,C00041061,PB,,,T6200,AFP/Phone,N,0,1
-C00041160,1994,Michigan Republican State Cmte,Republican Party of Michigan,Republican Party of Michigan,C00041160,RP,,R,Z5100,Report,N,0,1
 C00041178,1994,Texaco,,Texaco,C00041178,PB,,,E1110,S&P94,Y,0,1
-C00041269,1994,Georgia Federal Elections Cmte,Democratic Party of Georgia,Democratic Party of Georgia,C00041269,DP,,D,Z5200,Report,N,0,1
 C00041301,1994,Firstar Corp,,Firstar Corp,C00041301,PB,,,F1100,S&P94,N,0,1
 C00041376,1994,Baltimore Gas & Electric,,Baltimore Gas & Electric,C00041376,PB,,,E1620,S&P94,Y,0,1
 C00041558,1994,Jack Eckerd Corp,,Jack Eckerd Corp,C00041558,PB,,,G4900,S&P94,N,0,1
@@ -436,10 +376,8 @@ C00042002,1994,RJR Nabisco,RJR Nabisco,RJR Nabisco,C00042002,PB,,,A1300,S&P94,Y,
 C00042010,1994,Baker Hughes Inc,,Baker Hughes Inc,C00042010,PB,,,E1150,S&P94,N,0,1
 C00042069,1994,Monsanto Co,Monsanto Co,Monsanto Co,C00042069,PB,,,M1000,S&P94,Y,0,1
 C00042184,1994,Northrop Grumman,Northrop Grumman,Northrop Grumman,C00042184,PB,,,D2000,S&P94,Y,0,1
-C00042366,1994,Democratic Senatorial Campaign Cmte,Democratic Senatorial Campaign Cmte,Democratic Senatorial Campaign Cmte,C00042366,DP,,D,Z5200,Report,N,0,1
 C00042382,1994,Democratic Study Group Campaign Fund,,Democratic Study Group Campaign Fund,C00042382,PI,,,J1200,Name,N,0,1
 C00042424,1994,St Paul Companies,,St Paul Companies,C00042424,PB,,,F3100,S&P94,N,0,1
-C00042622,1994,Massachusetts Republican State Cmte,Republican Party of Massachusetts,Republican Party of Massachusetts,C00042622,RP,,R,Z5100,Report,N,0,1
 C00042663,1994,Kansas City Life Insurance,,Kansas City Life Insurance,C00042663,PB,,,F3300,S&P94,Y,0,1
 C00042895,1994,JC Penney,JC Penney,JC Penney,C00042895,PB,,,G4300,S&P94,Y,0,1
 C00042960,1994,American Frozen Food Institute,American Frozen Food Institute,American Frozen Food Institute,C00042960,PB,,,G2100,WebEC,N,0,1
@@ -458,10 +396,7 @@ C00043711,1994,Beneficial Management Corp,,Beneficial Management Corp,C00043711,
 C00043901,1994,Virginia Dental Assn,,Virginia Dental Assn,C00043901,PB,,,H1400,Name,N,0,1
 C00043992,1994,Campaign for UN Reform,,Campaign for UN Reform,C00043992,PI,,,J9000,Name,Y,0,1
 C00044024,1994,Union Planters Corp,,Union Planters Corp,C00044024,PB,,,F1100,S&P94,N,0,1
-C00044776,1994,Republican Party of Alabama,Republican Party of Alabama,Republican Party of Alabama,C00044776,RP,,R,Z5100,Report,N,0,1
 C00044818,1994,Tennessee Dental Assn,American Dental Assn,American Dental Assn,C00044818,PB,,,H1400,Name,N,0,1
-C00044842,1994,Republican Federal Cmte of Pennsylvania,Republican Party of Pennsylvania,Republican Party of Pennsylvania,C00044842,RP,,R,Z5100,Report,N,0,1
-C00044990,1994,Republican Central Cmte of South Dakota,Republican Party of South Dakota,Republican Party of South Dakota,C00044990,RP,,R,Z5100,Report,N,0,1
 C00045781,1994,Outdoor Advertising Assn of America,,Outdoor Advertising Assn of America,C00045781,PB,,,G5230,NTPA89,N,0,1
 C00045963,1994,Farm & Home Savings Assn,,Farm & Home Savings Assn,C00045963,PB,,,F1200,S&P94,N,0,1
 C00046086,1994,Institute of Scrap Recycling Industries,,Institute of Scrap Recycling Industries,C00046086,PB,,,M2400,Phone,N,0,1
@@ -475,7 +410,6 @@ C00051979,1994,Columbia Gas System,Columbia Gas System,Columbia Gas System,C0005
 C00053553,1994,National Rifle Assn,National Rifle Assn,National Rifle Assn,C00053553,PI,,,J6200,AFP88,N,0,1
 C00054890,1994,Columbia Gas of Ohio,Columbia Gas System,Columbia Gas System,C00054890,PB,,,E1140,S&P94,N,0,1
 C00055236,1994,Columbia Natural Resources,Columbia Gas System,Columbia Gas System,C00055236,PB,,,E1120,S&P94,N,0,1
-C00055582,1994,New York Republican Federal Campaign Cmte,Republican Party of New York,Republican Party of New York,C00055582,RP,,R,Z5100,Report,N,0,1
 C00056192,1994,Freeport-McMoRan Inc,,Freeport-McMoRan Inc,C00056192,PB,,,A4100,S&P94,Y,0,1
 C00056523,1994,Idaho Bankers Assn,American Bankers Assn,American Bankers Assn,C00056523,PB,,,F1100,Name,N,0,1
 C00059238,1994,Kroger Co,Kroger Co,Kroger Co,C00059238,PB,,,G2400,S&P94,N,0,1
@@ -515,25 +449,21 @@ C00068452,1994,Associated General Contractors/Iowa,Associated General Contractor
 C00068528,1994,Pacific Mutual Life,,Pacific Mutual Life,C00068528,PB,,,F3100,S&P94,Y,0,1
 C00068692,1994,Federal Express Corp,,Federal Express Corp,C00068692,PB,,,T7100,S&P94,Y,0,1
 C00069310,1994,Pennsylvania Physical Therapy Assn,American Physical Therapy Assn,American Physical Therapy Assn,C00069310,PB,,,H1700,Name,N,0,1
-C00071365,1994,Democratic State Central Cmte/Louisiana,Democratic Party of Louisiana,Democratic Party of Louisiana,C00071365,DP,,D,Z5200,Report,N,0,1
 C00072751,1994,State Street Bank & Trust,,State Street Corp,C00072751,PB,,,F1100,Hvr03,N,0,1
 C00072769,1994,Hoffmann-La Roche,Roche Group,Roche Group,C00072769,PB,,,H4300,S&P94,Y,1,1
 C00072967,1994,Commerce Bancshares,,Commerce Bancshares,C00072967,PB,,,F1100,S&P94,N,0,1
 C00073056,1994,"Masters, Mates & Pilots Union",,"Masters, Mates & Pilots Union",C00073056,PL,,,LT500,AFP88,N,0,1
 C00073189,1994,Sen Nicholas Petris Campaign Cmte,State Senator Nicholas Petris (D-Calif),Sen Nicholas Petris Campaign Cmte,C00073189,PI,,D,J2500,SYB,N,0,1
 C00073353,1994,Retzer & Retzer Inc,,Retzer & Retzer Inc,C00073353,PB,,,G2900,Phone,N,0,1
-C00073791,1994,Association of State Dem Chairs/Dollars for Dems,Association of State Democratic Chairs,Association of State Democratic Chairs,C00073791,DP,,D,Z5200,Report,N,0,1
 C00074088,1994,Laundry & Dry Cleaning Intl Union,,Laundry & Dry Cleaning Intl Union,C00074088,PL,,,LG300,Name,N,0,1
 C00074252,1994,Indiana League of Savings Institutions,Savings & Community Bankers of America,Savings & Community Bankers of America,C00074252,PB,,,F1200,AFP90,N,0,1
 C00074310,1994,BDM International,Carlyle Group,Carlyle Group,C00074310,PB,,,D4000,WebEC,Y,0,1
 C00074328,1994,"Spear, Leeds & Kellogg",,"Spear, Leeds & Kellogg",C00074328,PB,,,F2100,WebEC,N,0,1
-C00074450,1994,Republican Party of Wisconsin,Republican Party of Wisconsin,Republican Party of Wisconsin,C00074450,RP,,R,Z5100,Report,N,0,1
 C00074633,1994,Ruan Companies,,Ruan Companies,C00074633,PB,,,T3100,Phone,Y,0,1
 C00074799,1994,Ohio Bankers Assn,American Bankers Assn,American Bankers Assn,C00074799,PB,,,F1100,AFP88,N,0,1
 C00075275,1994,National Assn of Water Companies,,National Assn of Water Companies,C00075275,PB,,,E5000,NTPA89,N,0,1
 C00075341,1994,Motorola Inc,,Motorola Inc,C00075341,PB,,,C4600,S&P94,Y,0,1
 C00075358,1994,National Assn of Air Traffic Specialists,,National Assn of Air Traffic Specialists,C00075358,PL,,,LT100,Name,N,0,1
-C00075820,1994,National Republican Congressional Cmte,National Republican Congressional Cmte,National Republican Congressional Cmte,C00075820,RP,,R,Z5100,Report,N,0,1
 C00075994,1994,Ashland Oil,Ashland Oil,Ashland Oil,C00075994,PB,,,E1160,S&P94,Y,0,1
 C00076018,1994,Plumbers/Pipefitters Union Local 690,Plumbers/Pipefitters Union,Plumbers/Pipefitters Union,C00076018,PL,,,LB100,AFP88,N,0,1
 C00076075,1994,Great Western Financial Corp,,Great Western Financial Corp,C00076075,PB,,,F1200,S&P94,N,0,1
@@ -560,7 +490,6 @@ C00077636,1994,Texas Restaurant Assn,National Restaurant Assn,National Restauran
 C00077701,1994,Kraft Foods,Philip Morris,Philip Morris,C00077701,PB,,,G2100,S&P94,N,0,1
 C00077982,1994,American Commercial Lines,CSX Corp,CSX Corp,C00077982,PB,,,T6200,Hoovers,N,0,1
 C00078022,1994,Ontario Corp,,Ontario Corp,C00078022,PB,,,T1300,Phone,Y,0,1
-C00078196,1994,Rhode Island Repub State Central Cmte,Republican Party of Rhode Island,Republican Party of Rhode Island,C00078196,RP,,R,Z5100,Report,N,0,1
 C00078287,1994,CNA Financial,Loews Corp,Loews Corp,C00078287,PB,,,F3100,S&P94,Y,0,1
 C00078451,1994,General Dynamics,,General Dynamics,C00078451,PB,,,D2000,Hvr03,Y,0,1
 C00078535,1994,Direct Selling Assn,,Direct Selling Assn,C00078535,PB,,,G4800,NTPA89,N,0,1
@@ -572,7 +501,6 @@ C00079566,1994,California Westside Farmers Inc,,California Westside Farmers Inc,
 C00079681,1994,National Propane Gas Assn,,National Propane Gas Assn,C00079681,PB,,,E1190,NTPA89,N,0,1
 C00079731,1994,Ohio Bell Telephone,Ameritech Corp,Ameritech Corp,C00079731,PB,,,C4100,S&P94,N,0,1
 C00079855,1994,Bowling Proprietors Assn,,Bowling Proprietors Assn,C00079855,PB,,,G6100,NTPA89,N,0,1
-C00079913,1994,5th Congressional Dist Republican Club,Republican Party of Washington,Republican Party of Washington,C00079913,RP,,R,Z5100,Report,N,0,1
 C00079947,1994,Nabisco Brands Inc,RJR Nabisco,RJR Nabisco,C00079947,PB,,,G2100,S&P94,N,0,1
 C00080069,1994,ICF Kaiser International,,ICF Kaiser International,C00080069,PB,,,B4000,S&P94,Y,0,1
 C00080135,1994,Blue Diamond Growers,,Blue Diamond Growers,C00080135,PB,,,A1400,AFP88,N,0,1
@@ -589,7 +517,6 @@ C00081281,1994,Idaho League of Savings Assns,Savings & Community Bankers of Amer
 C00081414,1994,American Sugar Cane League,,American Sugar Cane League,C00081414,PB,,,A1200,AFP88,N,0,1
 C00081422,1994,New York Bankers Assn,American Bankers Assn,American Bankers Assn,C00081422,PB,,,F1100,Name,N,0,1
 C00081471,1994,Washington Natural Gas,,Washington Natural Gas,C00081471,PB,,,E1140,S&P94,N,0,1
-C00081802,1994,West Virginia Republican State Exec Cmte,Republican Party of West Virginia,Republican Party of West Virginia,C00081802,RP,,R,Z5100,Report,N,0,1
 C00082008,1994,Portland General Electric,,Portland General Electric,C00082008,PB,,,E1600,S&P94,Y,0,1
 C00082255,1994,Deere & Co/Iowa,Deere & Co,Deere & Co,C00082255,PB,,,A4200,,N,0,1
 C00082271,1994,Precision Metalforming Assn,,Precision Metalforming Assn,C00082271,PB,,,M5000,NTPA89,N,0,1
@@ -599,7 +526,6 @@ C00082800,1994,PacifiCorp,PacifiCorp,PacifiCorp,C00082800,PB,,,E1600,S&P94,N,0,1
 C00082834,1994,California Bankers Assn,American Bankers Assn,American Bankers Assn,C00082834,PB,,,F1100,AFP88,N,0,1
 C00082909,1994,Oregon Home Builders Assn,National Assn of Home Builders,National Assn of Home Builders,C00082909,PB,,,B2000,AFP88,N,0,1
 C00082917,1994,Associated General Contractors,Associated General Contractors,Associated General Contractors,C00082917,PB,,,B1000,AFP88,N,0,1
-C00082925,1994,Nevada State Republican Central Cmte,Republican Party of Nevada,Republican Party of Nevada,C00082925,RP,,R,Z5100,Report,N,0,1
 C00083279,1994,California Assn of Realtors,National Assn of Realtors,National Assn of Realtors,C00083279,PB,,,F4200,Name,N,0,1
 C00083287,1994,JSJ Corp,,JSJ Corp,C00083287,PB,,,M2300,S&P94,N,0,1
 C00083337,1994,Louisiana ACRE,National Rural Electric Cooperative Assn,National Rural Electric Cooperative Assn,C00083337,PB,,,E1610,AFP88,N,0,1
@@ -614,13 +540,11 @@ C00083865,1994,Pacific Telesis Group,,Pacific Telesis Group,C00083865,PB,,,C4100
 C00083915,1994,National Pest Control Assn,,National Pest Control Assn,C00083915,PB,,,G5700,NTPA89,N,0,1
 C00084145,1994,Harsco Corp,,Harsco Corp,C00084145,PB,,,D8000,S&P94,Y,0,1
 C00084285,1994,Dean Operations,,Dean Operations,C00084285,PB,,,B6000,Duns,Y,0,1
-C00084368,1994,Mississippi Rep Pty Capitol Foundation,Republican Party of Mississippi,Republican Party of Mississippi,C00084368,RP,,R,Z5100,Report,N,0,1
 C00084475,1994,3M Co,,3M Co,C00084475,PB,,,M0000,S&P94,Y,0,1
 C00084491,1994,International Franchise Assn,,International Franchise Assn,C00084491,PB,,,G1000,Phone,Y,0,1
 C00084822,1994,International Assn of Holiday Inns,,International Assn of Holiday Inns,C00084822,PB,,,T9100,WebDA,N,0,1
 C00084863,1994,Alliance for American Leadership,Dick Cheney,Alliance for American Leadership,C00084863,PI,,R,J2400,AFP96,N,0,1
 C00084871,1994,Hoechst Celanese Corp,,Hoechst Corp,C00084871,PB,,,M1400,S&P94,Y,0,1
-C00084954,1994,Republican Party of Arkansas,Republican Party of Arkansas,Republican Party of Arkansas,C00084954,RP,,R,Z5100,Report,N,0,1
 C00084970,1994,Atlantic Apparel Contractors Assn,,Atlantic Apparel Contractors Assn,C00084970,PB,,,M3100,NTPA89,N,0,1
 C00084988,1994,Southwestern Electric Power,Central & South West Corp,Central & South West Corp,C00084988,PB,,,E1600,S&P94,N,0,1
 C00085308,1994,Aluminum Assn,,Aluminum Assn,C00085308,PB,,,E1220,NTPA89,N,0,1
@@ -628,7 +552,6 @@ C00085316,1994,Cigna Corp,,Cigna Corp,C00085316,PB,,,F3100,S&P94,Y,0,1
 C00085332,1994,Bell Telephone of Pennsylvania,Bell Atlantic,Bell Atlantic,C00085332,PB,,,C4100,S&P94,N,0,1
 C00085373,1994,K Mart Corp,,K Mart Corp,C00085373,PB,,,G4300,S&P94,N,0,1
 C00085480,1994,Zapata Corp,,Zapata Corp,C00085480,PB,,,E1150,S&P94,N,0,1
-C00085506,1994,Republican Party of Hawaii,Republican Party of Hawaii,Republican Party of Hawaii,C00085506,RP,,R,Z5100,Report,N,0,1
 C00085910,1994,Fertilizer Institute,,Fertilizer Institute,C00085910,PB,,,A4100,NTPA89,N,0,1
 C00085977,1994,Iowa Bankers Assn,American Bankers Assn,American Bankers Assn,C00085977,PB,,,F1100,AFP88,N,0,1
 C00086264,1994,Baltimore Bldg & Constr Trades Council,,Baltimore Bldg & Constr Trades Council,C00086264,PL,,,LB100,Name,N,0,1
@@ -646,10 +569,8 @@ C00088591,1994,Northrop Grumman,Northrop Grumman,Northrop Grumman,C00088591,PB,,
 C00088864,1994,Champion International Corp,,Champion International Corp,C00088864,PB,,,A5200,S&P94,Y,0,1
 C00089086,1994,American Occupational Therapy Assn,,American Occupational Therapy Assn,C00089086,PB,,,H1700,NTPA89,N,0,1
 C00089136,1994,Philip Morris,Philip Morris,Philip Morris,C00089136,PB,,,A1300,S&P94,Y,0,1
-C00089243,1994,Massachusetts Democratic State Cmte,Democratic Party of Massachusetts,Democratic Party of Massachusetts,C00089243,DP,,D,Z5200,Report,N,0,1
 C00089342,1994,Sprint Corp,Sprint Communications,Sprint Communications,C00089342,PB,,,C4200,Duns,Y,0,1
 C00089458,1994,National Crushed Stone Assn,,National Crushed Stone Assn,C00089458,PB,,,B5100,NTPA89,N,0,1
-C00089482,1994,Republican Party of Utah,Republican Party of Utah,Republican Party of Utah,C00089482,RP,,R,Z5100,Report,N,0,1
 C00089540,1994,Andrews & Kurth,,Andrews & Kurth,C00089540,PB,,,K1000,MartHubb,N,0,1
 C00089557,1994,American Maritime Officers Retirees Assn,American Maritime Officers,American Maritime Officers,C00089557,PL,,,LT500,AFP88,N,0,1
 C00089961,1994,Tenneco Inc,,Tenneco Inc,C00089961,PB,,,D5000,S&P94,Y,0,1
@@ -704,9 +625,6 @@ C00097865,1994,National Assn of Truck Stop Operators,,National Assn of Truck Sto
 C00098061,1994,Dayton Hudson,,Dayton Hudson,C00098061,PB,,,G4300,S&P94,N,0,1
 C00098301,1994,Community Bankers Assn of New York State,Savings & Community Bankers of America,Savings & Community Bankers of America,C00098301,PB,,,F1200,Nexis,N,0,1
 C00099002,1994,Sunkist Growers,,Sunkist Growers,C00099002,PB,,,A1400,S&P94,N,0,1
-C00099259,1994,Republican Party of Florida,Republican Party of Florida,Republican Party of Florida,C00099259,RP,,R,Z5100,Report,N,0,1
-C00099267,1994,Democratic Party of Texas,Democratic Party of Texas,Democratic Party of Texas,C00099267,DP,,D,Z5200,Report,N,0,1
-C00099465,1994,Fourth Congressional District Democratic Cmte,Democratic Party of Michigan,Democratic Party of Michigan,C00099465,DP,,D,Z5200,Report,N,0,1
 C00099473,1994,Gray Plant Mooty,,Gray Plant Mooty,C00099473,PB,,,K1000,MartHubb,N,0,1
 C00099572,1994,Coast Federal Bank,,Coast Savings Financial,C00099572,PB,,,F1200,Duns,N,0,1
 C00099655,1994,BellSouth Telecommunications,BellSouth Corp,BellSouth Corp,C00099655,PB,,,C4100,S&P94,N,0,1
@@ -721,7 +639,6 @@ C00100305,1994,Peter Pan Seafoods,,Nichiro Corp,C00100305,PB,,,G2350,S&P94,N,1,1
 C00100321,1994,Harris Corp,,Harris Corp,C00100321,PB,,,D3000,WebDS,Y,0,1
 C00100347,1994,Entergy Mississippi,Entergy Corp,Entergy Corp,C00100347,PB,,,E1600,S&P94,N,0,1
 C00100495,1994,Sea-Land Service,CSX Corp,CSX Corp,C00100495,PB,,,T6200,S&P94,Y,0,1
-C00100644,1994,Riverside County Republican Central Cmte,Republican Party of California,Republican Party of California,C00100644,RP,,R,Z5100,Report,N,0,1
 C00100693,1994,Chicago Board Options Exchange,,Chicago Board Options Exchange,C00100693,PB,,,F2200,Name,N,0,1
 C00100727,1994,Entergy Services,Entergy Corp,Entergy Corp,C00100727,PB,,,E1620,S&P94,N,0,1
 C00100859,1994,Liberty National Bank & Trust of Okl Cty,Liberty Bancorp,Liberty Bancorp,C00100859,PB,,,F1100,S&P94,N,0,1
@@ -758,7 +675,6 @@ C00104109,1994,Inland Steel,,Inland Steel,C00104109,PB,,,M2100,S&P94,N,0,1
 C00104182,1994,First Fidelity Bancorp New Jersey,First Fidelity Bancorp,First Fidelity Bancorp,C00104182,PB,,,F1100,Duns,N,0,1
 C00104299,1994,JP Morgan & Co,,JP Morgan & Co,C00104299,PB,,,F1100,S&P94,Y,0,1
 C00104364,1994,Irby Construction,,Stuart C Irby Co,C00104364,PB,,,B1000,Duns,N,0,1
-C00104471,1994,New Jersey Democratic State Cmte,Democratic Party of New Jersey,Democratic Party of New Jersey,C00104471,DP,,D,Z5200,Report,N,0,1
 C00104687,1994,AO Smith Corp,,AO Smith Corp,C00104687,PB,,,T2200,S&P94,Y,0,1
 C00104802,1994,Northwest Airlines,,Northwest Airlines,C00104802,PB,,,T1100,S&P94,N,0,1
 C00104810,1994,Enron Corp,,Enron Corp,C00104810,PB,,,E1140,S&P94,Y,0,1
@@ -767,8 +683,6 @@ C00104885,1994,Stone & Webster,,Stone & Webster,C00104885,PB,,,B4000,S&P94,Y,0,1
 C00104901,1994,"Akin, Gump et al",,"Akin, Gump et al",C00104901,PB,,,K1000,AFP88,N,0,1
 C00105080,1994,New York State Right to Life,Right to Life,Right to Life,C00105080,PI,,,J7120,Name,N,0,1
 C00105577,1994,Cleveland Building & Cnstr Trades Cncl,,Cleveland Building & Cnstr Trades Cncl,C00105577,PL,,,LB100,Name,N,0,1
-C00105668,1994,Democratic State Central Cmte/California,Democratic Party of California,Democratic Party of California,C00105668,DP,,D,Z5200,Report,N,0,1
-C00105973,1994,Utah State Democratic Cmte,Democratic Party of Utah,Democratic Party of Utah,C00105973,DP,,D,Z5200,Report,N,0,1
 C00105981,1994,Investment Co Institute,,Investment Co Institute,C00105981,PB,,,F2100,AFP88,N,0,1
 C00106146,1994,American Hospital Assn,American Hospital Assn,American Hospital Assn,C00106146,PB,,,H2100,AFP88,N,0,1
 C00106245,1994,Roadway Services Inc,Roadway Services Inc,Roadway Services Inc,C00106245,PB,,,T3100,S&P94,N,0,1
@@ -795,7 +709,6 @@ C00108290,1994,Schering-Plough Corp,,Schering-Plough Corp,C00108290,PB,,,H4300,S
 C00108456,1994,Maine Bankers Assn,American Bankers Assn,American Bankers Assn,C00108456,PB,,,F1100,AFP90,N,0,1
 C00108555,1994,UniGroup Inc,UniGroup Inc,UniGroup Inc,C00108555,PB,,,T3100,Hvr05,N,0,1
 C00108605,1994,Connecticut Bankers Assn,American Bankers Assn,American Bankers Assn,C00108605,PB,,,F1100,AFP88,N,0,1
-C00108613,1994,Indiana Democratic Congressional Victory Cmte,Democratic Party of Indiana,Democratic Party of Indiana,C00108613,DP,,D,Z5200,Report,N,0,1
 C00109017,1994,Southwestern Bell,,Southwestern Bell,C00109017,PB,,,C4100,S&P94,Y,0,1
 C00109165,1994,Louisiana-Pacific Corp,,Louisiana-Pacific Corp,C00109165,PB,,,A5000,S&P94,Y,0,1
 C00109264,1994,Iowa-Illinois Gas & Electric,,Iowa-Illinois Gas & Electric,C00109264,PB,,,E1620,S&P94,Y,0,1
@@ -865,7 +778,6 @@ C00114090,1994,Washington Bankers Assn,American Bankers Assn,American Bankers As
 C00114108,1994,American Society of Travel Agents,,American Society of Travel Agents,C00114108,PB,,,T9400,AFP88,N,0,1
 C00114132,1994,American Veterinary Medical Assn,,American Veterinary Medical Assn,C00114132,PB,,,A4500,AFP88,N,0,1
 C00114223,1994,IBP Inc,,IBP Inc,C00114223,PB,,,G2300,S&P94,Y,0,1
-C00114439,1994,Washington State Democratic Central Cmte,Democratic Party of Washington,Democratic Party of Washington,C00114439,DP,,D,Z5200,Report,N,0,1
 C00114447,1994,Tennessee Bankers Assn,American Bankers Assn,American Bankers Assn,C00114447,PB,,,F1100,Name,N,0,1
 C00114702,1994,Ocean Spray Cranberries,,Ocean Spray Cranberries,C00114702,PB,,,A1400,S&P94,N,0,1
 C00115030,1994,Ipalco Enterprises,,Ipalco Enterprises,C00115030,PB,,,E1600,S&P94,N,0,1
@@ -914,7 +826,6 @@ C00119776,1994,Georgia Power,Southern Co,Southern Co,C00119776,PB,,,E1600,S&P94,
 C00119784,1994,"De Leuw, Cather & Co",Ralph M Parsons Co,Ralph M Parsons Co,C00119784,PB,,,B4000,S&P94,N,0,1
 C00120006,1994,Minnesota Mutual Life,,Minnesota Mutual Life,C00120006,PB,,,F3300,S&P94,Y,0,1
 C00120030,1994,Society of Independent Gasoline Marketers,,Society of Independent Gasoline Marketers,C00120030,PB,,,E1170,NTPA89,N,0,1
-C00120055,1994,Republican State Central Cmte/Maryland,Republican Party of Maryland,Republican Party of Maryland,C00120055,RP,,R,Z5100,Report,N,0,1
 C00120204,1994,Vollrath Co,,Vollrath Co,C00120204,PB,,,M2300,S&P94,N,0,1
 C00120519,1994,Gulf Power,Southern Co,Southern Co,C00120519,PB,,,E1600,S&P94,N,0,1
 C00120550,1994,FHP Inc,,FHP Inc,C00120550,PB,,,H3700,S&P94,N,0,1
@@ -1016,21 +927,17 @@ C00135376,1994,First Citizens Bank,,First Citizens Bank,C00135376,PB,,,F1100,S&P
 C00135459,1994,Parker-Hannifin,,Parker-Hannifin,C00135459,PB,,,M2300,S&P94,Y,0,1
 C00135525,1994,American National Insurance,,American National Insurance,C00135525,PB,,,F3100,S&P94,Y,0,1
 C00135541,1994,To Protect Our Heritage PAC,,To Protect Our Heritage PAC,C00135541,PI,,,J5100,FEC/RAC,N,0,1
-C00135558,1994,Missouri Democratic State Cmte,Democratic Party of Missouri,Democratic Party of Missouri,C00135558,DP,,D,Z5200,Report,N,0,1
 C00135590,1994,Institute of Makers of Explosives,,Institute of Makers of Explosives,C00135590,PB,,,M1100,Name,N,0,1
 C00135632,1994,Friends Of Roberti,,Friends Of Roberti,C00135632,PU,, ,Y0000,,N,0,1
 C00135681,1994,Farmers Group,Zurich Financial Services,Zurich Financial Services,C00135681,PB,,,F3100,S&P94,N,0,1
 C00135707,1994,Office & Professional Employees 2,Office & Professional Employees Union,Office & Professional Employees Union,C00135707,PL,,,L5000,Phone,N,0,1
 C00135731,1994,Tennessee Walking Horse Breeders,,Tennessee Walking Horse Breeders,C00135731,PB,,,A3500,Name,N,0,1
 C00135855,1994,Energen Corp,,Energen Corp,C00135855,PB,,,E1140,Duns,N,0,1
-C00136200,1994,Rhode Island Democratic State Cmte,Democratic Party of Rhode Island,Democratic Party of Rhode Island,C00136200,DP,,D,Z5200,Report,N,0,1
 C00136317,1994,McDermott International,McDermott International,McDermott International,C00136317,PB,,,E1700,S&P94,Y,0,1
 C00136341,1994,Jitney-Jungle Inc,,Jitney-Jungle Inc,C00136341,PB,,,G2400,S&P94,N,0,1
 C00136390,1994,Charter One Bank,,Charter One Bank,C00136390,PB,,,F1200,S&P94,N,0,1
-C00136457,1994,New Hampshire Republican State Cmte,Republican Party of New Hampshire,Republican Party of New Hampshire,C00136457,RP,,R,Z5100,Report,N,0,1
 C00136523,1994,Emigrant Savings Bank,,Emigrant Savings Bank,C00136523,PB,,,F1200,Name,N,0,1
 C00136838,1994,Arizona Farm Bureau,,Arizona Farm Bureau,C00136838,PB,,,A6500,Name,N,0,1
-C00136853,1994,United Repub Finance Cmte/Contra Costa,Republican Party of California,Republican Party of California,C00136853,RP,,R,Z5100,Report,N,0,1
 C00136895,1994,Human Life PAC,,Human Life PAC,C00136895,PI,,,J7120,Phone,N,0,1
 C00137158,1994,First Federal Savings Bank of California,,First Federal Savings Bank of California,C00137158,PB,,,F1200,RandMc,N,0,1
 C00137265,1994,John Hancock Mutual Life,,John Hancock Mutual Life,C00137265,PB,,,F3100,Phone,Y,0,1
@@ -1066,7 +973,6 @@ C00139972,1994,Mid-America Conservative PAC,,Mid-America Conservative PAC,C00139
 C00140061,1994,American College of Emergency Physicians,,American College of Emergency Physicians,C00140061,PB,,,H1100,AFP88,N,0,1
 C00140376,1994,Fund for a Democratic Majority,Edward M. Kennedy (D-Mass),Fund for a Democratic Majority,C00140376,PI,,D,J2100,AFP88,N,0,1
 C00140384,1994,Shelter Mutual Insurance,,Shelter Mutual Insurance,C00140384,PB,,,F3100,S&P94,N,0,1
-C00140590,1994,Republican Party of California,Republican Party of California,Republican Party of California,C00140590,RP,,R,Z5100,Report,N,0,1
 C00140673,1994,Hamilton Bank,CoreStates Financial Corp,CoreStates Financial Corp,C00140673,PB,,,F1100,S&P94,N,0,1
 C00140699,1994,Apartment Assn of Tarrant County,,Apartment Assn of Tarrant County,C00140699,PB,,,F4500,Phone,N,0,1
 C00140707,1994,Louisiana Bankers Assn,American Bankers Assn,American Bankers Assn,C00140707,PB,,,F1100,AFP88,N,0,1
@@ -1083,7 +989,6 @@ C00141382,1994,"Gannett, Fleming et al",,"Gannett, Fleming et al",C00141382,PB,,
 C00141572,1994,Oregon Right to Life,Right to Life,Right to Life,C00141572,PI,,,J7120,Name,N,0,1
 C00141697,1994,Allegheny Ludlum Steel Corp,Allegheny Ludlum,Allegheny Ludlum,C00141697,PB,,,M2100,S&P94,N,0,1
 C00141747,1994,Northern Califonians for Good Government,,Northern Califonians for Good Government,C00141747,PI,,,J5100,AFP88,N,0,1
-C00141812,1994,Democratic State Central Cmte/Maryland,Democratic Party of Maryland,Democratic Party of Maryland,C00141812,DP,,D,Z5200,Report,N,0,1
 C00141879,1994,Deblois Oil,,Deblois Oil,C00141879,PB,,,E1160,S&P94,N,0,1
 C00141903,1994,Auto Dealers & Drivers for Free Trade,,Auto Dealers & Drivers for Free Trade,C00141903,PB,,,T2310,AFP88,N,0,1
 C00141937,1994,National Liberty Cmte,,National Liberty Cmte,C00141937,PI,,,J1300,Report,N,0,1
@@ -1108,13 +1013,10 @@ C00143065,1994,Sensormatic Electronics,,Sensormatic Electronics,C00143065,PB,,,G
 C00143099,1994,Fund for a Republican Majority,Ted Stevens (R-Alaska),Fund for a Republican Majority,C00143099,PI,,R,J2200,AFP88,N,0,1
 C00143164,1994,American United Life Insurance,,American United Life Insurance,C00143164,PB,,,F3100,Duns,Y,0,1
 C00143206,1994,Thiokol,,Thiokol,C00143206,PB,,,D2000,S&P94,Y,0,1
-C00143230,1994,New York State Democratic Cmte,Democratic Party of New York,Democratic Party of New York,C00143230,DP,,D,Z5200,Report,N,0,1
 C00143305,1994,CH2M HILL,,CH2M HILL,C00143305,PB,,,B4000,AnRpt90/Ph,Y,0,1
 C00143461,1994,Showboat Inc,,Showboat Inc,C00143461,PB,,,G6500,S&P94,Y,0,1
 C00143560,1994,American Dietetic Assn,,American Dietetic Assn,C00143560,PB,,,H1700,NTPA89,N,0,1
-C00143578,1994,Second District Repub Cmte of Michigan,Republican Party of Michigan,Republican Party of Michigan,C00143578,RP,,R,Z5100,Report,N,0,1
 C00143636,1994,National Electric Sign Assn,,National Electric Sign Assn,C00143636,PB,,,G5230,NTPA89,Y,0,1
-C00143743,1994,Texas Republican Congressional Cmte,Republican Party of Texas,Republican Party of Texas,C00143743,RP,,R,Z5100,Report,N,0,1
 C00143867,1994,Equifax Inc,,Equifax Inc,C00143867,PB,,,F5200,S&P94,Y,0,1
 C00143891,1994,Roundtable PAC,,Roundtable PAC,C00143891,PI,,,J5100,AFP88,N,0,1
 C00143909,1994,Dean Foods,,Dean Foods,C00143909,PB,,,A2000,S&P94,Y,0,1
@@ -1131,7 +1033,6 @@ C00144774,1994,Southern Co,Southern Co,Southern Co,C00144774,PB,,,E1600,S&P94,Y,
 C00144790,1994,Nebraska Right to Life Cmte,Right to Life,Right to Life,C00144790,PI,,,J7120,Name,N,0,1
 C00144824,1994,Piedmont Natural Gas,,Piedmont Natural Gas,C00144824,PB,,,E1140,S&P94,N,0,1
 C00144949,1994,RIHT Financial Corp,Bank of Boston,Bank of Boston,C00144949,PB,,,F1100,S&P94,N,0,1
-C00145037,1994,Atlanta Gas Light Co,,Atlanta Gas Light Co,C00145037,PB,,,E1140,S&P94,N,0,1
 C00145144,1994,Lakeside National Bank/Lake Charles,,Lakeside National Bank/Lake Charles,C00145144,PB,,,F1100,RandMc,N,0,1
 C00145177,1994,Shoney's Inc,,Shoney's Inc,C00145177,PB,,,G2900,S&P94,N,0,1
 C00145201,1994,Minnesota League Savings/Commty Bankers,Savings & Community Bankers of America,Savings & Community Bankers of America,C00145201,PB,,,F1200,AFP90,N,0,1
@@ -1171,18 +1072,15 @@ C00148874,1994,Arizona Politically Interested Citizens,,Arizona Politically Inte
 C00148882,1994,Lincoln Club of Northern California,,Lincoln Club of Northern California,C00148882,PI,,,J1100,Phone,N,0,1
 C00149013,1994,Fulbright & Jaworski,,Fulbright & Jaworski,C00149013,PB,,,K1000,Treasurer,N,0,1
 C00149104,1994,Cenex Inc,,Cenex Inc,C00149104,PB,,,A4100,S&P94,Y,0,1
-C00149120,1994,Third Congressional Dist Democratic Cmte,Democratic Party of Michigan,Democratic Party of Michigan,C00149120,DP,,D,Z5200,Report,N,0,1
 C00149377,1994,Massachusetts Congr Campaign Cmte,,Massachusetts Congr Campaign Cmte,C00149377,PI,,,J5100,RAC/Kent,N,0,1
 C00149484,1994,Florida Power,,Florida Power,C00149484,PB,,,E1600,S&P94,N,0,1
 C00149583,1994,Hibernia Corp,,Hibernia Corp,C00149583,PB,,,F1100,S&P94,N,0,1
-C00149641,1994,Democratic Party of Mississippi,Democratic Party of Mississippi,Democratic Party of Mississippi,C00149641,DP,,D,Z5200,Report,N,0,1
 C00149948,1994,Small Business Council of America,,Small Business Council of America,C00149948,PB,,,G1200,EncAssns,N,0,1
 C00149997,1994,First Interstate Bank of Nevada,First Interstate,First Interstate,C00149997,PB,,,F1100,S&P94,N,0,1
 C00150151,1994,Tucker Arensberg,,Tucker Arensberg,C00150151,PB,,,K1000,MartHubb,N,0,1
 C00150367,1994,National Venture Capital Assn,,National Venture Capital Assn,C00150367,PB,,,F2500,AFP88,N,0,1
 C00150649,1994,Lenawee Democratic Campaign Cmte,,Lenawee Democratic Campaign Cmte,C00150649,PI,,,J1200,Name,N,0,1
 C00150656,1994,Time Warner,Time Warner,Time Warner,C00150656,PB,,,C2000,S&P94,Y,0,1
-C00150672,1994,Republican Party of Georgia,Republican Party of Georgia,Republican Party of Georgia,C00150672,RP,,R,Z5100,Report,N,0,1
 C00150680,1994,Mercantile Bancorp,,Mercantile Bancorp,C00150680,PB,,,F1100,RandMc,N,0,1
 C00150755,1994,Citizens for a Competitive America,Ernest F. Hollings (D-SC),Citizens for a Competitive America,C00150755,PI,,D,J2100,FEC,N,0,1
 C00150995,1994,National PAC,,National PAC,C00150995,PI,,,J5100,AFP88,N,0,1
@@ -1203,7 +1101,6 @@ C00152579,1994,Delaware Valley PAC,,Delaware Valley PAC,C00152579,PI,,,J5100,AFP
 C00152835,1994,Conservative Democratic PAC,Charles Stenholm (D-Tex),Conservative Democratic PAC,C00152835,PI,,D,J2100,FEC,N,0,1
 C00152892,1994,National Society of Professional Surveyors,,National Society of Professional Surveyors,C00152892,PB,,,B4300,Phone,N,0,1
 C00152983,1994,"Meyer, Suozzi et al",,"Meyer, Suozzi et al",C00152983,PB,,,K1000,MartHubb,N,0,1
-C00153031,1994,Republican Party of Oregon,Republican Party of Oregon,Republican Party of Oregon,C00153031,RP,,R,Z5100,Report,N,0,1
 C00153155,1994,Pacific Stock Exchange,,Pacific Stock Exchange,C00153155,PB,,,F2400,Name,N,0,1
 C00153171,1994,Association of Private Pension & Welfare Plans,,Association of Private Pension & Welfare Plans,C00153171,PB,,,F2100,EncAssns,N,0,1
 C00153304,1994,Washington Psychiatric Society,American Psychiatric Assn,American Psychiatric Assn,C00153304,PB,,,H1110,Name,N,0,1
@@ -1220,17 +1117,14 @@ C00155465,1994,First Security Bank of New Mexico,,First Security Bank of New Mex
 C00155713,1994,BAYPAC,,BAYPAC,C00155713,PI,,,J5100,FEC,N,0,1
 C00155770,1994,UNUM Corp,UNUM Corp,UNUM Corp,C00155770,PB,,,F3100,S&P94,Y,0,1
 C00155853,1994,Continental Grain,,Continental Grain,C00155853,PB,,,A1500,S&P94,N,0,1
-C00155952,1994,Democratic Party of Virginia,Democratic Party of Virginia,Democratic Party of Virginia,C00155952,DP,,D,Z5200,Report,N,0,1
 C00156067,1994,First Blue Island PAC,,First Blue Island PAC,C00156067,PB,,,F1100,,N,0,1
 C00156166,1994,Trustmark Insurance,,Trustmark Insurance,C00156166,PB,,,F3100,Duns,N,0,1
 C00156216,1994,Telocator Network of America,,Telocator Network of America,C00156216,PB,,,C4300,NTPA89,N,0,1
 C00156554,1994,Ironworkers Union Local 67,Ironworkers Union,Ironworkers Union,C00156554,PL,,,LB100,AFP88,N,0,1
 C00156596,1994,Minnesota Womens Campaign Fund,,Minnesota Womens Campaign Fund,C00156596,PI,,,J7400,Phone,Y,0,1
-C00156810,1994,Republican Party of Kentucky,Republican Party of Kentucky,Republican Party of Kentucky,C00156810,RP,,R,Z5100,Report,N,0,1
 C00156844,1994,Ophthalmologists PAC,,Ophthalmologists PAC,C00156844,PB,,,H1120,Name,N,0,1
 C00156851,1994,Manor Healthcare,,Manor Care Inc,C00156851,PB,,,H2200,Hvr05,N,0,1
 C00157107,1994,Illinois Power,,Illinois Power,C00157107,PB,,,E1620,S&P94,Y,0,1
-C00157404,1994,16th Congressional Dist Democratic Party,Democratic Party of Michigan,Democratic Party of Michigan,C00157404,DP,,D,Z5200,Report,N,0,1
 C00157412,1994,California Trial Lawyers Assn,Association of Trial Lawyers of America,Association of Trial Lawyers of America,C00157412,PB,,,K1100,AFP93,N,0,1
 C00157461,1994,First Fidelity Bancorp,First Fidelity Bancorp,First Fidelity Bancorp,C00157461,PB,,,F1100,RandMc,N,0,1
 C00157503,1994,Brooklyn Democrats,,Brooklyn Democrats,C00157503,PI,,,J1200,Name,N,0,1
@@ -1240,10 +1134,8 @@ C00157875,1994,National Assn Plumbing-Heating-Cooling Contractors,,National Assn
 C00157925,1994,Turner Broadcasting System,,Turner Broadcasting System,C00157925,PB,,,C2300,S&P94,Y,0,1
 C00157941,1994,Peace Action,,Peace Action,C00157941,PI,,,JD200,Name,N,0,1
 C00157958,1994,Missouri Right to Life,Right to Life,Right to Life,C00157958,PI,,,J7120,Name,N,0,1
-C00158022,1994,Ninth District Democratic Cmte,Democratic Party of Michigan,Democratic Party of Michigan,C00158022,DP,,D,Z5200,Report,N,0,1
 C00158154,1994,Columbia/HCA Healthcare,Columbia/HCA Healthcare,Columbia/HCA Healthcare,C00158154,PB,,,H2100,S&P94,N,0,1
 C00158287,1994,Fred Meyer Inc,,Fred Meyer Inc,C00158287,PB,,,G4300,S&P94,Y,0,1
-C00158402,1994,Republican Central Cmte of Orange County,Republican Party of California,Republican Party of California,C00158402,RP,,R,Z5100,Report,N,0,1
 C00158758,1994,Lincoln Telecommunications,,Lincoln Telecommunications,C00158758,PB,,,C4100,S&P94,N,0,1
 C00158865,1994,Hudson Valley PAC,,Hudson Valley PAC,C00158865,PI,,,J5100,AFP88,N,0,1
 C00158873,1994,Gulfstream Aerospace,Chrysler Corp,Chrysler Corp,C00158873,PB,,,T1200,Phone,N,0,1
@@ -1266,34 +1158,26 @@ C00160101,1994,PECO Energy,,PECO Energy,C00160101,PB,,,E1600,S&P94,Y,0,1
 C00160259,1994,New York Hospital Assn,American Hospital Assn,American Hospital Assn,C00160259,PB,,,H2100,Name,N,0,1
 C00160630,1994,Drummond Co,,Drummond Co,C00160630,PB,,,E1210,S&P94,N,0,1
 C00160655,1994,Illinois Public Action Council,,Illinois Public Action Council,C00160655,PI,,,J1200,Nexis,N,0,1
-C00160721,1994,4th District Congressional Campaign Cmte,Democratic Party of Iowa,Democratic Party of Iowa,C00160721,DP,,D,Z5200,Report,N,0,1
 C00160770,1994,Walgreen Co,,Walgreen Co,C00160770,PB,,,G4900,S&P94,N,0,1
 C00160796,1994,Sinclair Society,,Sinclair Society,C00160796,PI,,,J1100,Pattern,N,0,1
-C00160937,1994,Democratic Majority Campaign Cmte,Democratic Party of South Dakota,Democratic Party of South Dakota,C00160937,DP,,D,Z5200,Report,N,0,1
 C00160978,1994,Kansas League of Savings Institutions,Savings & Community Bankers of America,Savings & Community Bankers of America,C00160978,PB,,,F1200,Phone,N,0,1
 C00160986,1994,"Kutak, Rock",,"Kutak, Rock",C00160986,PB,,,K1000,WashReps,Y,0,1
-C00161067,1994,Democratic Party of Harris County,Democratic Party of Texas,Democratic Party of Texas,C00161067,DP,,D,Z5200,Report,N,0,1
 C00161133,1994,Hawaiian Sugar Planters Assn,,Hawaiian Sugar Planters Assn,C00161133,PB,,,A1200,AFP88,N,0,1
 C00161141,1994,Blue Cross/Blue Shield of Florida,Blue Cross/Blue Shield,Blue Cross/Blue Shield,C00161141,PB,,,F3200,AFP90,N,0,1
 C00161414,1994,Protective Life Corp,,Protective Life Corp,C00161414,PB,,,F3300,S&P94,Y,0,1
 C00161620,1994,Giffels Assoc,,Giffels Assoc,C00161620,PB,,,B4200,S&P94,N,0,1
-C00161786,1994,Democratic State Central Cmte/Colorado,Democratic Party of Colorado,Democratic Party of Colorado,C00161786,DP,,D,Z5200,Report,N,0,1
-C00161810,1994,Democratic Party of New Mexico,Democratic Party of New Mexico,Democratic Party of New Mexico,C00161810,DP,,D,Z5200,Report,N,0,1
 C00161869,1994,SpacePAC,SpacePAC,SpacePAC,C00161869,PI,,,J9000,Phone,N,0,1
 C00161901,1994,Equitable Financial Services,Equitable Companies,Equitable Companies,C00161901,PB,,,F3100,Hvr01,Y,1,1
 C00161919,1994,Racal-Datacom,,Racal-Datacom,C00161919,PB,, ,Y0000,,N,0,1
 C00161950,1994,Rollins Environmental Services,,Rollins Environmental Services,C00161950,PB,,,E3000,S&P97,N,0,1
 C00162065,1994,Great Northern Savings,,Great Northern Savings,C00162065,PB,,,F1200,RandMc,N,0,1
 C00162149,1994,San Francisco Federal S&L,,San Francisco Federal S&L,C00162149,PB,,,F1200,RandMc,N,0,1
-C00162339,1994,Republican Party of Ohio,Republican Party of Ohio,Republican Party of Ohio,C00162339,RP,,R,Z5100,Report,N,0,1
 C00162453,1994,New Mexico Conservation Voters Alliance,,New Mexico Conservation Voters Alliance,C00162453,PI,,,JE300,Name,N,0,1
 C00162495,1994,National Assn of Beverage Importers,,National Assn of Beverage Importers,C00162495,PB,,,G2820,NTPA89,N,0,1
 C00162529,1994,National Assn of Insurance Brokers,,National Assn of Insurance Brokers,C00162529,PB,,,F3100,NTPA89,N,0,1
 C00162552,1994,German-American National PAC,,German-American National PAC,C00162552,PU,, ,Y0000,,N,0,1
-C00162578,1994,West Virginia State Democratic Exec Cmte,Democratic Party of West Virginia,Democratic Party of West Virginia,C00162578,DP,,D,Z5200,Report,N,0,1
 C00162719,1994,"Wolf, Block et al",,"Wolf, Block et al",C00162719,PB,,,K1000,MartHubb,N,0,1
 C00162735,1994,Federated Investors Inc,,Federated Investors Inc,C00162735,PB,,,F2100,S&P94,N,0,1
-C00162743,1994,California Democratic Hispanic Caucus,Democratic Party of California,Democratic Party of California,C00162743,DP,,D,Z5200,Report,N,0,1
 C00162800,1994,Sportsman's Alliance of Maine,,Sportsman's Alliance of Maine,C00162800,PB,,,E4200,Phone,Y,0,1
 C00162818,1994,IBEW Local 98,International Brotherhood of Electrical Workers,International Brotherhood of Electrical Workers,C00162818,PL,,,LC150,Name,N,0,1
 C00162883,1994,Rochester Community Savings Bank,,Rochester Community Savings Bank,C00162883,PB,,,F1200,RandMc,N,0,1
@@ -1317,7 +1201,6 @@ C00164244,1994,Duquesne Light Co,Duquesne Light Co,Duquesne Light Co,C00164244,P
 C00164293,1994,Blount Inc,,Blount Inc,C00164293,PB,,,B1000,S&P94,Y,0,1
 C00164384,1994,National Right to Work PAC,,National Right to Work PAC,C00164384,PI,,,J8000,Name,N,0,1
 C00164392,1994,Right to Work PAC,,Right to Work PAC,C00164392,PI,,,J8000,AFP88,N,0,1
-C00164418,1994,New Jersey Republican State Cmte,Republican Party of New Jersey,Republican Party of New Jersey,C00164418,RP,,R,Z5100,Report,N,0,1
 C00164509,1994,Intl Fedn of Prof & Technical Engineers,,Intl Fedn of Prof & Technical Engineers,C00164509,PL,,,L0000,AFP98,Y,0,1
 C00164780,1994,Connecticut Mutual Life Insurance,,Connecticut Mutual Life Insurance,C00164780,PB,,,F3300,S&P94,N,0,1
 C00164848,1994,Federal Managers Assn,,Federal Managers Assn,C00164848,PL,,,L1100,WebEC,N,0,1
@@ -1335,7 +1218,6 @@ C00165548,1994,Fund for Democratic Leadership,Robert T. Matsui (D-Calif),Fund fo
 C00165589,1994,Huntington Bancshares,Huntington Bancshares,Huntington Bancshares,C00165589,PB,,,F1100,S&P94,N,0,1
 C00165605,1994,National Grocers Assn,National Grocers Assn,National Grocers Assn,C00165605,PB,,,G2400,Phone,Y,0,1
 C00165621,1994,Swidler & Berlin,,Swidler & Berlin,C00165621,PB,,,K1000,Duns,N,0,1
-C00165688,1994,North Carolina Democratic Victory Fund,Democratic Party of North Carolina,Democratic Party of North Carolina,C00165688,DP,,D,Z5200,Report,N,0,1
 C00165795,1994,First Eastern Corp,,First Eastern Corp,C00165795,PB,, ,Y0000,,N,0,1
 C00165944,1994,Mid Manhattan PAC,,Mid Manhattan PAC,C00165944,PI,,,J5100,AFP88,N,0,1
 C00166074,1994,American Supply Assn,,American Supply Assn,C00166074,PB,,,B5300,NTPA89,Y,0,1
@@ -1348,20 +1230,14 @@ C00166496,1994,Maguire Group,,Maguire Group,C00166496,PB,,,B4200,Duns,N,0,1
 C00166512,1994,Totem Ocean Trailer Express,,Totem Resources,C00166512,PB,,,T6200,Duns,N,0,1
 C00166553,1994,Stephens Overseas Services,,Stephens Group,C00166553,PB,,,F2300,Nexis,N,0,1
 C00166611,1994,American Assn of Mesbics,,American Assn of Mesbics,C00166611,PB,,,G1200,NTPA89,Y,0,1
-C00166710,1994,Democratic Party of Arizona,Democratic Party of Arizona,Democratic Party of Arizona,C00166710,DP,,D,Z5200,Report,N,0,1
 C00166892,1994,Blue Bell Creameries,,Blue Bell Creameries,C00166892,PB,,,A2000,Duns,N,0,1
 C00166926,1994,Hiram Walker & Sons,,Hiram Walker & Sons,C00166926,PB,,,G2820,S&P94,N,0,1
 C00166934,1994,Bank South Corp,,Bank South Corp,C00166934,PB,,,F1100,S&P94,N,0,1
 C00166983,1994,HF Ahmanson & Co,,HF Ahmanson & Co,C00166983,PB,,,F1200,Duns/Phone,N,0,1
 C00167007,1994,Fund to Keep America Number One,Lewis Lehrman,Fund to Keep America Number One,C00167007,PI,,R,J2400,AFP96,N,0,1
-C00167015,1994,Democratic Party of Illinois,Democratic Party of Illinois,Democratic Party of Illinois,C00167015,DP,,D,Z5200,Report,N,0,1
-C00167130,1994,Democratic Party of Pennsylvania,Democratic Party of Pennsylvania,Democratic Party of Pennsylvania,C00167130,DP,,D,Z5200,Report,N,0,1
 C00167197,1994,UNC Inc,,UNC Inc,C00167197,PB,,,T1300,S&P94,Y,0,1
-C00167213,1994,Oklahoma Leadership Council,Republican Party of Oklahoma,Republican Party of Oklahoma,C00167213,RP,,R,Z5100,Report,N,0,1
 C00167239,1994,Advertising Mail Marketing Assn,,Advertising Mail Marketing Assn,C00167239,PB,,,G4700,Phone,N,0,1
 C00167270,1994,Teamsters Local 577,Teamsters Union,Teamsters Union,C00167270,PL,,,LT300,Name,N,0,1
-C00167320,1994,Democratic State Central Cmte/Conn,Democratic Party of Connecticut,Democratic Party of Connecticut,C00167320,DP,,D,Z5200,Report,N,0,1
-C00167346,1994,Democratic Party of Tennessee,Democratic Party of Tennessee,Democratic Party of Tennessee,C00167346,DP,,D,Z5200,Report,N,0,1
 C00167361,1994,NARAL North Carolina,National Abortion Rights Action League,National Abortion Rights Action League,C00167361,PI,,,J7150,Name,N,0,1
 C00167452,1994,PAC-WEST,,PAC-WEST,C00167452,PU,, ,Y0000,,N,0,1
 C00167478,1994,Committee for Democratic Action,Howard Metzenbaum (D-Ohio),Committee for Democratic Action,C00167478,PI,,D,J2100,FEC,N,0,1
@@ -1394,7 +1270,6 @@ C00169508,1994,AAI Corp,United Industrial Corp,United Industrial Corp,C00169508,
 C00169516,1994,Allmerica Financial,,Allmerica Financial,C00169516,PB,,,F3100,S&P94,N,0,1
 C00169524,1994,Bristol Savings Bank,,Bristol Savings Bank,C00169524,PB,,,F1200,Duns,N,0,1
 C00169821,1994,Tyson Foods,Tyson Foods,Tyson Foods,C00169821,PB,,,A2300,S&P94,Y,0,1
-C00170175,1994,Republican Party of Idaho,Republican Party of Idaho,Republican Party of Idaho,C00170175,RP,,R,Z5100,Report,N,0,1
 C00170258,1994,National Assn/Mutual Insurance Companies,,National Assn/Mutual Insurance Companies,C00170258,PB,,,F3100,NTPA89,N,0,1
 C00170316,1994,Women's Action for New Directions,Women's Action for New Directions,Women's Action for New Directions,C00170316,PI,,,JD200,Name,N,0,1
 C00170480,1994,Del Webb Corp,,Del Webb Corp,C00170480,PB,,,F4100,S&P/CR,N,0,1
@@ -1412,7 +1287,6 @@ C00172296,1994,National Cmte to Preserve Social Security,National Cmte to Preser
 C00172361,1994,Pennsylvania Pro Life Federation,,Pennsylvania Pro Life Federation,C00172361,PI,,,J7120,Name,N,0,1
 C00172387,1994,Wilmington Trust Co,,Wilmington Trust Corp,C00172387,PB,,,F1100,S&P94,N,0,1
 C00172494,1994,Missouri Bankers Assn,American Bankers Assn,American Bankers Assn,C00172494,PB,,,F1100,Name,N,0,1
-C00172510,1994,Republican State Cmte of Delaware,Republican Party of Delaware,Republican Party of Delaware,C00172510,RP,,R,Z5100,Report,N,0,1
 C00172601,1994,Georgia Right to Life,Right to Life,Right to Life,C00172601,PI,,,J7120,Name,N,0,1
 C00172635,1994,Bass Brothers Enterprises,,Bass Brothers Enterprises,C00172635,PB,,,E1150,Phone,N,0,1
 C00172775,1994,Calcot Ltd,,Calcot Ltd,C00172775,PB,,,A1100,Phone,N,0,1
@@ -1433,15 +1307,12 @@ C00174060,1994,BellSouth Corp,BellSouth Corp,BellSouth Corp,C00174060,PB,,,C4100
 C00174102,1994,Texas Sugar Beet Growers Assn,,Texas Sugar Beet Growers Assn,C00174102,PB,,,A1200,Name,N,0,1
 C00174185,1994,Conrail Inc,,Conrail Inc,C00174185,PB,,,T5100,S&P94,N,0,1
 C00174227,1994,Baker & Hostetler,,Baker & Hostetler,C00174227,PB,,,K1000,MartHubb,N,0,1
-C00174334,1994,Santa Barbara County Repub Central Cmte,Republican Party of California,Republican Party of California,C00174334,RP,,R,Z5100,Report,N,0,1
 C00174367,1994,Northwest Natural Gas,,Northwest Natural Gas,C00174367,PB,,,E1140,S&P94,N,0,1
 C00174391,1994,American Wholesale Marketers Assn,,American Wholesale Marketers Assn,C00174391,PB,,,A1300,NTPA89,N,0,1
 C00174557,1994,Perry Drug Stores,,Perry Drug Stores,C00174557,PB,,,G4900,S&P94,N,0,1
 C00174599,1994,Lamar Corp,,Lamar Corp,C00174599,PB,,,G5230,Duns,N,0,1
 C00174607,1994,Churchill Truck Lines,,Churchill Truck Lines,C00174607,PB,,,T3100,Duns,N,0,1
 C00174763,1994,Ameritech Corp,Ameritech Corp,Ameritech Corp,C00174763,PB,,,C4100,S&P94,N,0,1
-C00174813,1994,Rockingham County Republican Cmte,Republican Party of New Hampshire,Republican Party of New Hampshire,C00174813,RP,,R,Z5100,Report,N,0,1
-C00174821,1994,Solano County Republican Central Cmte,Republican Party of California,Republican Party of California,C00174821,RP,,R,Z5100,Report,N,0,1
 C00174847,1994,Teamsters Local 830,Teamsters Union,Teamsters Union,C00174847,PL,,,LT300,Name,N,0,1
 C00175075,1994,Foodservice & Lodging Institute,,Foodservice & Lodging Institute,C00175075,PB,,,G2900,Phone,Y,0,1
 C00175091,1994,First American Corp,,First American Corp,C00175091,PB,,,F1100,Duns,N,0,1
@@ -1465,7 +1336,6 @@ C00177758,1994,National Assn of Arab-Americans,,National Assn of Arab-Americans,
 C00177766,1994,Lincoln Club of San Diego County,,Lincoln Club of San Diego County,C00177766,PB,,,G1300,Phone,N,0,1
 C00177998,1994,Paramount Communications,,Paramount Communications,C00177998,PB,,,C2000,S&P94,Y,0,1
 C00178012,1994,"People's Bank/Bridgeport, CT",,People's Bank,C00178012,PB,,,F1200,RandMc,N,0,1
-C00178038,1994,New Hampshire Democratic State Cmte,Democratic Party of New Hampshire,Democratic Party of New Hampshire,C00178038,DP,,D,Z5200,Report,N,0,1
 C00178053,1994,Sabreliner Corp,,Sabreliner Corp,C00178053,PB,,,T1300,S&P94,N,0,1
 C00178269,1994,Consumer Federation of America,,Consumer Federation of America,C00178269,PI,,,J3000,WebCH,N,0,1
 C00178517,1994,International Fund for Animal Welfare,,International Fund for Animal Welfare,C00178517,PI,,,J7600,PETA,N,0,1
@@ -1473,7 +1343,6 @@ C00178541,1994,Teamsters Joint Council 53,Teamsters Union,Teamsters Union,C00178
 C00178798,1994,"Mayor, Day & Caldwell",,"Mayor, Day & Caldwell",C00178798,PB,,,K1000,MartHubb,N,0,1
 C00179010,1994,Union Central Life Insurance,,Union Central Life Insurance,C00179010,PB,,,F3100,S&P94,N,0,1
 C00179275,1994,National School Transportation Assn,,National School Transportation Assn,C00179275,PB,,,T4100,NTPA89,N,0,1
-C00179408,1994,Maine Democratic State Cmte,Democratic Party of Maine,Democratic Party of Maine,C00179408,DP,,D,Z5200,Report,N,0,1
 C00179473,1994,Regions Financial,,Regions Financial,C00179473,PB,,,F1100,S&P94,N,0,1
 C00179614,1994,Irish National Caucus,,Irish National Caucus,C00179614,PI,,,J5000,WR97,N,0,1
 C00179762,1994,NYNEX Corp,NYNEX Corp,NYNEX Corp,C00179762,PB,,,C4100,S&P94,Y,0,1
@@ -1513,7 +1382,6 @@ C00186494,1994,Dairymen Inc-Pennsylvania,Dairymen Inc,Dairymen Inc,C00186494,PB,
 C00187088,1994,Minnesota Citizens Orgs Acting Together,,Minnesota Citizens Orgs Acting Together,C00187088,PI,,,J1200,Pattern,N,0,1
 C00187096,1994,Weirton Steel,,Weirton Steel,C00187096,PB,,,M2100,S&P94,N,0,1
 C00187104,1994,Kentucky Central Life Insurance Co,,Kentucky Central Life Insurance Co,C00187104,PB,,,F3300,Name,N,0,1
-C00187450,1994,Republican Party of Louisiana,Republican Party of Louisiana,Republican Party of Louisiana,C00187450,RP,P60000668,R,Z5100,Report,N,0,1
 C00187526,1994,City PAC,,City PAC,C00187526,PI,,,J5100,RAC/Kent,N,0,1
 C00187732,1994,Citizens Coalition Rational Traffic Laws,,Citizens Coalition Rational Traffic Laws,C00187732,PI,,,J9000,Name,N,0,1
 C00187799,1994,Northwestern Public Service Co,Northwestern Public Service Co,Northwestern Public Service Co,C00187799,PB,,,E1620,S&P94,Y,0,1
@@ -1521,29 +1389,22 @@ C00187807,1994,Tarrant Distributors,,Tarrant Distributors,C00187807,PB,,,G2850,D
 C00188011,1994,National Tank Truck Carriers Inc,,National Tank Truck Carriers Inc,C00188011,PB,,,T3100,NTPA89,N,0,1
 C00188177,1994,H&R Block,,H&R Block,C00188177,PB,,,F5300,S&P94,N,0,1
 C00188193,1994,Women's Political Cmte,,Women's Political Cmte,C00188193,PI,,,J7400,Name,N,0,1
-C00188367,1994,Democratic Party of Oregon,Democratic Party of Oregon,Democratic Party of Oregon,C00188367,DP,,D,Z5200,Report,N,0,1
 C00188813,1994,America's Leaders' Fund,Dan Rostenkowski (D-Ill),America's Leaders' Fund,C00188813,PI,,D,J2100,AFP88,N,0,1
 C00188979,1994,Hollywood Women's Political Cmte,,Hollywood Women's Political Cmte,C00188979,PI,,,J1200,AFP88,Y,0,1
 C00188987,1994,National Assn for Home Care,,National Assn for Home Care,C00188987,PB,,,H3100,NTPA89,N,0,1
-C00189100,1994,Seventh District Republican Cmte,Republican Party of Virginia,Republican Party of Virginia,C00189100,RP,,R,Z5100,Report,N,0,1
 C00189472,1994,Los Angeles County Democratic Central Cmte,,Los Angeles County Democratic Central Cmte,C00189472,PI,,,J1200,Name,N,0,1
 C00189696,1994,Multi-Issue PAC,,Multi-Issue PAC,C00189696,PI,,,J5100,Phone,N,0,1
 C00190041,1994,Long Island Progressive Coalition,,Long Island Progressive Coalition,C00190041,PI,,,J1200,Name,N,0,1
-C00190231,1994,Connecticut Democratic Alliance,,Connecticut Democratic Alliance,C00190231,PI,,,J1200,Name,N,0,1
 C00190371,1994,National Assn of Business & Educational Radio,,National Assn of Business & Educational Radio,C00190371,PB,,,C4500,Phone,N,0,1
 C00190652,1994,Southwestern Energy,,Southwestern Energy,C00190652,PB,,,E1140,S&P94,N,0,1
 C00190785,1994,First Maryland Bancorp,,First Maryland Bancorp,C00190785,PB,,,F1100,S&P94,N,0,1
 C00190876,1994,Effective Government Cmte,Richard A. Gephardt (D-Mo),Effective Government Cmte,C00190876,PI,,D,J2100,AFP88,N,0,1
-C00190934,1994,Democratic Party of Oklahoma,Democratic Party of Oklahoma,Democratic Party of Oklahoma,C00190934,DP,,D,Z5200,Report,N,0,1
 C00190959,1994,Michigan Cattlemen's Assn,National Cattlemen's Assn,National Cattlemen's Assn,C00190959,PB,,,A3000,WebEC,N,0,1
 C00191171,1994,Miami Cruise PAC,,Miami Cruise PAC,C00191171,PB,,,T6250,FECDocs,N,0,1
-C00191247,1994,Democratic Party of Alaska,Democratic Party of Alaska,Democratic Party of Alaska,C00191247,DP,,D,Z5200,Report,N,0,1
-C00191288,1994,Republican Party of the District of Columbia,,Republican Party of the District of Columbia,C00191288,RP,,R,Z5100,Report,N,0,1
 C00191387,1994,500 Club,,500 Club,C00191387,PI,,,J1100,,N,0,1
 C00191395,1994,"Brand, Lowell & Dole",,"Brand, Lowell & Dole",C00191395,PB,,,K1000,Phone,N,0,1
 C00191478,1994,Austin Powder Co,,Austin Powder Co,C00191478,PB,,,M1100,S&P94,N,0,1
 C00191858,1994,India Assn,,India Assn,C00191858,PI,,,J7500,Name,N,0,1
-C00191957,1994,Vance County Black Leadership Caucus,,Vance County Black Leadership Caucus,C00191957,PI,,,J7500,Name,N,0,1
 C00192153,1994,National Assn of Rehabilitation Agencies,,National Assn of Rehabilitation Agencies,C00192153,PB,,,H3000,EncAssns,N,0,1
 C00192302,1994,Elections Cmte of Orange County,,Elections Cmte of Orange County,C00192302,PI,,,J7300,Phone,Y,0,1
 C00192468,1994,Delaware Otsego Corp,,Delaware Otsego Corp,C00192468,PB,,,T5100,S&P94,N,0,1
@@ -1613,7 +1474,6 @@ C00198184,1994,Warner-Lambert,,Warner-Lambert,C00198184,PB,,,H4000,S&P94,Y,0,1
 C00198366,1994,Hope Gas,Consolidated Natural Gas,Consolidated Natural Gas,C00198366,PB,,,E1140,S&P94,N,0,1
 C00198531,1994,Johnson & Wortley,,Johnson & Wortley,C00198531,PB,,,K1000,Phone,N,0,1
 C00198606,1994,DeVry Inc,,DeVry Inc,C00198606,PO,,,H5300,S&P94,N,0,1
-C00198697,1994,Ingham County Democratic Party,Democratic Party of Michigan,Democratic Party of Michigan,C00198697,DP,,D,Z5200,Report,N,0,1
 C00198861,1994,West Los Angeles Health PAC,,West Los Angeles Health PAC,C00198861,PI,,,JH100,Phone,N,0,1
 C00199166,1994,Blue Cross/Blue Shield of Massachusetts,Blue Cross/Blue Shield,Blue Cross/Blue Shield,C00199166,PB,,,F3200,Name,N,0,1
 C00199257,1994,Genentech Inc,Roche Group,Roche Group,C00199257,PB,,,H4500,Hvr03,N,1,1
@@ -1683,14 +1543,12 @@ C00206854,1994,First Colonial Bankshares,,First Colonial Bankshares,C00206854,PB
 C00207472,1994,Pittston Co,,Pittston Co,C00207472,PB,,,E1210,S&P94,Y,0,1
 C00207688,1994,Young Executives of America,,Young Executives of America,C00207688,PI,,,J1100,Pattern,N,0,1
 C00207878,1994,Sierra Pacific Resources,Sierra Pacific Resources,Sierra Pacific Resources,C00207878,PB,,,E1620,S&P94,Y,0,1
-C00207944,1994,Tenth Cong District Democratic Cmte of Virginia,Democratic Party of Virginia,Democratic Party of Virginia,C00207944,DP,,D,Z5200,Report,N,0,1
 C00207969,1994,National Custom Brokers Assn,,National Custom Brokers Assn,C00207969,PB,,,G3500,WAA17,N,0,1
 C00208322,1994,Management & Training Corp,,Management & Training Corp,C00208322,PO,,,G7000,webMS,N,0,1
 C00208421,1994,Ireco Inc,,Ireco Inc,C00208421,PB,,,M1100,Ward's,N,0,1
 C00208462,1994,Battelle Memorial Institute,,Battelle Memorial Institute,C00208462,PB,,,E3000,PhLM,N,0,1
 C00208652,1994,Greater Rancho Santa Fe Area PAC,,Greater Rancho Santa Fe Area PAC,C00208652,PU,, ,Y0000,,N,0,1
 C00208967,1994,Alex Brown & Sons,,Alex Brown & Sons,C00208967,PB,,,F2100,S&P94,N,0,1
-C00208991,1994,Democratic Party of Nevada,Democratic Party of Nevada,Democratic Party of Nevada,C00208991,DP,,D,Z5200,Report,N,0,1
 C00209379,1994,Committee for Effective Leadership,,Committee for Effective Leadership,C00209379,PU,, ,Y0000,,N,0,1
 C00209569,1994,Pro Life Citizens for a Better Society,,Pro Life Citizens for a Better Society,C00209569,PI,,,J7120,Name,N,0,1
 C00209833,1994,Schenck Family,,Schenck Co,C00209833,PB,,,G2850,WebLM,N,0,1
@@ -1699,7 +1557,6 @@ C00209940,1994,Greater Wash/Md Service Station Assn,,Greater Wash/Md Service Sta
 C00210096,1994,United American Bank of Memphis,,United American Bank of Memphis,C00210096,PB,,,F1100,Dun95,N,0,1
 C00210112,1994,International Sanitary Supply Assn,,International Sanitary Supply Assn,C00210112,PB,,,M4000,NTPA89,Y,0,1
 C00210278,1994,Minnesota Multi Housing Assn,,Minnesota Multi Housing Assn,C00210278,PB,, ,Y0000,,N,0,1
-C00210286,1994,Lancaster County Republican Party,,Lancaster County Republican Party,C00210286,RP,,R,Z5100,Report,N,0,1
 C00210534,1994,Pekin Energy,,Pekin Energy,C00210534,PB,,,E1500,Phone,N,0,1
 C00210542,1994,Committee for Quality Orthopedic Health Care,,Committee for Quality Orthopedic Health Care,C00210542,PB,,,H1130,Name,N,0,1
 C00210617,1994,US Health Corp of Columbus,,US Health Corp of Columbus,C00210617,PB,,,H2100,PhLM,N,0,1
@@ -1717,7 +1574,6 @@ C00211375,1994,Trigon Blue Cross/Blue Shield,Blue Cross/Blue Shield,Blue Cross/B
 C00211524,1994,Texas & Southwestern Cattle Raisers,,Texas & Southwestern Cattle Raisers,C00211524,PB,,,A3000,Name,N,0,1
 C00211623,1994,Chambers Development Co,,Chambers Development Co,C00211623,PB,,,E3000,S&P94,N,0,1
 C00211730,1994,Battle Mountain Gold,,Battle Mountain Gold,C00211730,PB,,,E1220,S&P94,N,0,1
-C00211763,1994,Democratic Party of Delaware,Democratic Party of Delaware,Democratic Party of Delaware,C00211763,DP,,D,Z5200,Report,N,0,1
 C00211987,1994,Sheet Metal Workers Union Local 65,Sheet Metal Workers Union,Sheet Metal Workers Union,C00211987,PL,,,LB100,Name,N,0,1
 C00212126,1994,Smirnoff/Inglenook Distributors,,Smirnoff/Inglenook Distributors,C00212126,PB,,,G2850,Name,N,0,1
 C00212142,1994,Kirkland & Ellis,,Kirkland & Ellis,C00212142,PB,,,K1200,WebDA,Y,0,1
@@ -1726,7 +1582,6 @@ C00212308,1994,Duchossois Industries,,Duchossois Industries,C00212308,PB,,,T5200
 C00212456,1994,Hellenic American Council,,Hellenic American Council,C00212456,PI,,,J7500,Phone,N,0,1
 C00212522,1994,Kelly Services,,Kelly Services,C00212522,PB,,,G5250,S&P94,N,0,1
 C00212621,1994,Trans Financial Bancorp,,Trans Financial Bancorp,C00212621,PB,,,F1100,S&P96,Y,0,1
-C00212787,1994,Democratic Party of Hawaii,Democratic Party of Hawaii,Democratic Party of Hawaii,C00212787,DP,,D,Z5200,Report,N,0,1
 C00212795,1994,Aqua-Chem Inc,,Aqua-Chem Inc,C00212795,PB,,,M2300,S&P96,N,0,1
 C00212811,1994,Premark International,,Premark International,C00212811,PB,,,M1500,S&P94,Y,0,1
 C00212902,1994,Fifth Horseman PAC,,Fifth Horseman PAC,C00212902,PB,,,F2200,WebEC,N,0,1
@@ -1738,11 +1593,9 @@ C00213173,1994,"Preston, Gates et al",,"Preston, Gates et al",C00213173,PB,,,K10
 C00213231,1994,A Duda & Sons,,A Duda & Sons,C00213231,PB,,,A1400,Duns,Y,0,1
 C00213348,1994,Holnam Inc,,Holnam Inc,C00213348,PB,,,B5100,S&P94,N,0,1
 C00213520,1994,National Assn of Medical Equipment Suppl,,National Assn of Medical Equip Suppliers,C00213520,PB,,,H4100,EncAssns,N,0,1
-C00213546,1994,Atlanta '88 Cmte,Democratic Party of Georgia,Democratic Party of Georgia,C00213546,DP,,D,Z5200,Report,N,0,1
 C00213645,1994,Letter Carriers Local 193,National Assn of Letter Carriers,National Assn of Letter Carriers,C00213645,PL,,,L1500,Name,N,0,1
 C00213819,1994,Delta Dental Plans Assn,,Delta Dental Plans Assn,C00213819,PB,,,F3200,NTPA89,N,0,1
 C00213868,1994,Catch the Spirit PAC,Bob Kasten (R-Wisc),Catch the Spirit PAC,C00213868,PI,,R,J2200,FEC,N,0,1
-C00213967,1994,Second District Republican Cmte,Republican Party of Kansas,Republican Party of Kansas,C00213967,RP,,R,Z5100,Report,N,0,1
 C00214015,1994,Tele-Communications Inc,Tele-Communications Inc,Tele-Communications Inc,C00214015,PB,,,C4500,S&P94,N,0,1
 C00214031,1994,Computer Technology Assoc,,Computer Technology Assoc,C00214031,PB,,,C5130,Phone,N,0,1
 C00214072,1994,Universal Leaf Tobacco,,Universal Corp,C00214072,PB,,,A1300,Hvr01,N,0,1
@@ -1752,7 +1605,6 @@ C00214338,1994,Limited Inc,,Limited Inc,C00214338,PB,,,G4100,S&P94,N,0,1
 C00214379,1994,Hunter Engineering,,Hunter Engineering,C00214379,PB,,,T2200,WebEC,N,0,1
 C00214395,1994,Power-PAC,,Power-PAC,C00214395,PU,, ,Y0000,NoWeb,N,0,1
 C00214429,1994,Centerior Energy Corp,Centerior Energy Corp,Centerior Energy Corp,C00214429,PB,,,E1600,S&P94,Y,0,1
-C00214437,1994,California Democratic '88 Victory Cmte,Democratic Party of California,Democratic Party of California,C00214437,DP,,D,Z4200,Report,N,0,1
 C00214445,1994,"Dean Witter, Discover & Co","Dean Witter, Discover & Co","Dean Witter, Discover & Co",C00214445,PB,,,F2100,S&P94,Y,0,1
 C00214577,1994,"Schroder, Wertheim & Co",,Schroders PLC,C00214577,PB,,,F2100,S&P94,N,0,1
 C00214700,1994,American Mutual Life Insurance,,American Mutual Life Insurance,C00214700,PB,,,F3300,S&P94,N,0,1
@@ -1782,7 +1634,6 @@ C00216358,1994,Security Benefit Group,,Security Benefit Group,C00216358,PB,,,F31
 C00216424,1994,Pennsylvania Good Government Cmte,,Pennsylvania Good Government Cmte,C00216424,PI,,,J1100,Phone,N,0,1
 C00216556,1994,Alltel Corp,,Alltel Corp,C00216556,PB,,,C4100,S&P94,N,0,1
 C00216580,1994,Grassroots East,,Grassroots East,C00216580,PI,,,J1100,Phone,N,0,1
-C00216614,1994,Democratic Party Cmte Abroad,Democratic National Cmte,Democratic National Cmte,C00216614,DP,,D,Z5200,Report,N,0,1
 C00216655,1994,Triarc Companies,Triarc Companies,Triarc Companies,C00216655,PB,,,M8000,,N,0,1
 C00216770,1994,Brush Wellman,,Brush Wellman,C00216770,PB,,,M2200,S&P94,Y,0,1
 C00216853,1994,PRC Inc,,PRC Inc,C00216853,PB,,,D3000,Phone,Y,0,1
@@ -1887,14 +1738,10 @@ C00230185,1994,New York Mercantile Exchange,,New York Mercantile Exchange,C00230
 C00230342,1994,Democrats 2000,,Democrats 2000,C00230342,PI,,,J1200,Phone,N,0,1
 C00230383,1994,Florida Soc of Anesthesiologists,American Society of Anesthesiologists,American Society of Anesthesiologists,C00230383,PB,,,H1130,WebDA,N,0,1
 C00230508,1994,Healthtrust Inc,,Healthtrust Inc,C00230508,PB,,,H2100,S&P94,N,0,1
-C00230540,1994,Nebraska Democratic Future Fund Cmte,Democratic Party of Nebraska,Democratic Party of Nebraska,C00230540,DP,,D,Z5200,Report,N,0,1
 C00230565,1994,United Conservatives of America,,United Conservatives of America,C00230565,PI,,,J1100,Nexis,N,0,1
 C00230631,1994,Delphi Financial Group,,Delphi Financial Group,C00230631,PB,,,F3300,,N,0,1
-C00230813,1994,Republican Cmte of Nevada County,Republican Party of California,Republican Party of California,C00230813,RP,,R,Z5100,Report,N,0,1
 C00230821,1994,National Independent Energy Producers,,National Independent Energy Producers,C00230821,PB,,,E1600,Phone,N,0,1
-C00231076,1994,Santa Clara County United Demo Campaign,Democratic Party of California,Democratic Party of California,C00231076,DP,,D,Z5200,Report,N,0,1
 C00231134,1994,Hollywood Marine Inc,,Hollywood Marine Inc,C00231134,PB,,,T6200,Duns,N,0,1
-C00231209,1994,Democratic State Central Cmte/Fed Accnt,Democratic Party of Connecticut,Democratic Party of Connecticut,C00231209,DP,,D,Z5200,Report,N,0,1
 C00231233,1994,Lindquist & Vennum,Lindquist & Vennum,Lindquist & Vennum,C00231233,PB,,,K1000,MartHubb,N,0,1
 C00231241,1994,Teamsters Union/Washington State,Teamsters Union,Teamsters Union,C00231241,PL,,,LT300,Name,N,0,1
 C00231373,1994,Colorado Democratic Women's PAC,,Colorado Democratic Women's PAC,C00231373,PI,,,J1200,Report,N,0,1
@@ -1922,7 +1769,6 @@ C00233247,1994,Mgmt Assn/Priv Photogrammetric Surveyors,,Mgmt Assn/Priv Photogra
 C00233288,1994,Business Aviation Coalition,,Business Aviation Coalition,C00233288,PB,,,T1400,Phone,N,0,1
 C00233304,1994,National Assn Industrial & Office Parks,,National Assn Industrial & Office Parks,C00233304,PB,,,F4100,Phone,N,0,1
 C00233353,1994,Professionals in Advertising PAC,,Professionals in Advertising PAC,C00233353,PB,,,G5210,Name,N,0,1
-C00233361,1994,Marin County Republican Central Cmte,Republican Party of California,Republican Party of California,C00233361,RP,,R,Z5100,Report,N,0,1
 C00233924,1994,National Maritime Support Group,,National Maritime Support Group,C00233924,PU,, ,Y0000,,N,0,1
 C00233981,1994,Park Cities Republican Womens Club,,Park Cities Republican Womens Club,C00233981,PI,,,J1100,Name,N,0,1
 C00234005,1994,United Democratic Campaign Cmte,,United Democratic Campaign Cmte,C00234005,PI,,,J1200,Name,N,0,1
@@ -1952,7 +1798,6 @@ C00235861,1994,Allen County Right to Life,Right to Life,Right to Life,C00235861,
 C00235879,1994,National Small Business United PAC,,National Small Business United PAC,C00235879,PB,,,G1200,Phone,N,0,1
 C00235929,1994,California Credit Union League,Credit Union National Assn,Credit Union National Assn,C00235929,PB,,,F1300,Name,N,0,1
 C00236034,1994,Werner Enterprises,,Werner Enterprises,C00236034,PB,,,T3100,S&P94,N,0,1
-C00236059,1994,Democratic Cmte of New York County,Democratic Party of New York,Democratic Party of New York,C00236059,DP,,D,Z5200,Report,N,0,1
 C00236067,1994,Harza Engineering,,Harza Engineering,C00236067,PB,,,B4000,AnRpt90,N,0,1
 C00236083,1994,S&B Engineers,,S&B Engineers,C00236083,PB,,,B4000,WebEC,Y,0,1
 C00236414,1994,AEGON USA,,AEGON USA,C00236414,PB,,,F3100,S&P94,N,1,1
@@ -1975,7 +1820,6 @@ C00237495,1994,California Assn of Hospitals/Health Sys,,California Assn of Hosp/
 C00237537,1994,New American Century Fund,Lynn Martin (R-Ill),New American Century Fund,C00237537,PI,,R,J2200,Report,N,0,1
 C00237644,1994,National Truck Equipment Assn,,National Truck Equipment Assn,C00237644,PB,,,T3200,Phone,Y,0,1
 C00237719,1994,National Steel & Shipbuilding,,National Steel & Shipbuilding,C00237719,PB,,,T6100,S&P94,N,0,1
-C00237990,1994,Shelby-Utica Democratic Club,Shelby-Utica Democratic Club,Shelby-Utica Democratic Club,C00237990,PI,,,J1200,Name,N,0,1
 C00238204,1994,Pakistani Physicians PAC,,Pakistani Physicians PAC,C00238204,PI,,,J7500,Name,Y,0,1
 C00238311,1994,Airborne Freight Corp,,Airborne Freight Corp,C00238311,PB,,,T7100,S&P94,Y,0,1
 C00238386,1994,Wheat First Butcher Singer,,Wheat First Butcher Singer,C00238386,PB,,,F2100,S&P94,N,0,1
@@ -2019,7 +1863,6 @@ C00242065,1994,Congressional Choice PAC NJ,,Congressional Choice PAC NJ,C0024206
 C00242255,1994,Imo Industries,,Imo Industries,C00242255,PB,,,M2300,S&P94,Y,0,1
 C00242271,1994,Hillhaven Corp,,Hillhaven Corp,C00242271,PB,,,H2200,S&P94,Y,0,1
 C00242537,1994,T2 Medical Inc,,T2 Medical Inc,C00242537,PB,,,H3000,S&P94,N,0,1
-C00242875,1994,Democrats Abroad (UK),Democrats Abroad,Democrats Abroad,C00242875,DP,,D,Z5200,Report,N,0,1
 C00242941,1994,Republican Senatorial Inner Circle 1990,,Republican Senatorial Inner Circle 1990,C00242941,RP,S0AK00063,R,Z4100,Report,N,0,1
 C00242990,1994,United Federal Savings Bank,,United Federal Savings Bank,C00242990,PB,,,F1200,Duns,N,0,1
 C00243071,1994,Magna Group,,Magna Group,C00243071,PB,,,F1100,S&P94,N,0,1
@@ -2037,7 +1880,6 @@ C00244301,1994,Aluminum Brick & Glass Workers Union,Aluminum Brick & Glass Worke
 C00244400,1994,Livestock Marketing Assn,,Livestock Marketing Assn,C00244400,PB,,,A3000,Name,N,0,1
 C00244426,1994,"Shaw, Pittman et al",,"Shaw, Pittman et al",C00244426,PB,,,K1000,MartHubb,N,0,1
 C00244533,1994,Friant Water PAC,,Friant Water PAC,C00244533,PB,,,A4000,Phone,N,0,1
-C00244657,1994,Democratic Cmte of Beaver County,Democratic Party of Pennsylvania,Democratic Party of Pennsylvania,C00244657,DP,,D,Z5200,Report,N,0,1
 C00244822,1994,Society of Cardio & Intervent Radiology,,Society of Cardio & Intervent Radiology,C00244822,PB,,,H1130,Phone,N,0,1
 C00244863,1994,National Roofing Contractors Assn,,National Roofing Contractors Assn,C00244863,PB,,,B3000,Name,N,0,1
 C00245001,1994,Cologne Life Reinsurance,,Cologne Life Reinsurance,C00245001,PB,,,F3300,Duns,N,0,1
@@ -2081,7 +1923,6 @@ C00248690,1994,Alarm Industry Communications Cmte,,Alarm Industry Communications
 C00248716,1994,Comcast Corp,,Comcast Corp,C00248716,PB,,,C4500,S&P94,Y,0,1
 C00248799,1994,Cleo Bohls Fund,,Cleo Bohls Fund,C00248799,PI,,,J1100,Phone,N,0,1
 C00248849,1994,National Agricultural Chemicals Assn,,National Agricultural Chemicals Assn,C00248849,PB,,,A4100,Name,N,0,1
-C00248864,1994,Democratic Party of Dallas County,Democratic Party of Texas,Democratic Party of Texas,C00248864,DP,,D,Z5200,Report,N,0,1
 C00248898,1994,Indiana Right to Life,Right to Life,Right to Life,C00248898,PI,,,J7120,Name,N,0,1
 C00248948,1994,People Helping People,Maxine Waters (D-Calif),People Helping People,C00248948,PI,,D,J2100,Phone,N,0,1
 C00249060,1994,Fostin Capital Corp,,Fostin Capital Corp,C00249060,PB,, ,Y0000,,N,0,1
@@ -2113,7 +1954,6 @@ C00250449,1994,Tennessee Malt Beverage Assn,,Tennessee Malt Beverage Assn,C00250
 C00250464,1994,California Cotton Growers Assn,,California Cotton Growers Assn,C00250464,PB,,,A1100,Name,N,0,1
 C00250753,1994,Automotive Service Industry Assn,,Automotive Service Industry Assn,C00250753,PB,,,T2200,Phone,N,0,1
 C00250944,1994,Rural Builders of America PAC,,Rural Builders of America PAC,C00250944,PB,,,B2000,Phone,Y,0,1
-C00250993,1994,Humboldt County Republican Central Cmte,Republican Party of California,Republican Party of California,C00250993,RP,,R,Z5100,Report,N,0,1
 C00251009,1994,United Pilots PAC,Air Line Pilots Assn,Air Line Pilots Assn,C00251009,PL,,,LT100,Name,N,0,1
 C00251066,1994,ActionPAC,,ActionPAC,C00251066,PI,,,J5100,Phone,N,0,1
 C00251132,1994,Eat 'n Park Restaurants,,Eat 'n Park Restaurants,C00251132,PB,,,G2900,Duns,N,0,1
@@ -2128,7 +1968,6 @@ C00251876,1994,Amgen Inc,,Amgen Inc,C00251876,PB,,,H4300,S&P94,N,0,1
 C00251942,1994,Clean Water/Vote Environment,,Clean Water/Vote Environment,C00251942,PI,,,JE300,Name,N,0,1
 C00252106,1994,Thrift Drug,JC Penney,JC Penney,C00252106,PB,,,G4900,S&P94,N,0,1
 C00252338,1994,Chemical Manufacturers Assn,,Chemical Manufacturers Assn,C00252338,PB,,,M1000,Name,N,0,1
-C00252551,1994,San Diego County Republican Central Cmte,Republican Party of California,Republican Party of California,C00252551,RP,,R,Z5100,Report,N,0,1
 C00252684,1994,Blue Cross/Blue Shield of Utah,Blue Cross/Blue Shield,Blue Cross/Blue Shield,C00252684,PB,,,F3200,Name,N,0,1
 C00252718,1994,Devilbiss Health Care Inc,,Devilbiss Health Care Inc,C00252718,PB,,,H4100,Duns,N,0,1
 C00252825,1994,Plumbers/Pipefitters Union Local 690,Plumbers/Pipefitters Union,Plumbers/Pipefitters Union,C00252825,PL,,,LB100,Name,N,0,1
@@ -2138,7 +1977,6 @@ C00253070,1994,PAC for Middle America,,PAC for Middle America,C00253070,PI,, ,Y0
 C00253112,1994,Envoy Inc,,Envoy Inc,C00253112,PB,, ,Y0000,,N,0,1
 C00253120,1994,Virginia League of Savings Institutions,Savings & Community Bankers of America,Savings & Community Bankers of America,C00253120,PB,,,F1200,Name,N,0,1
 C00253153,1994,Outback Steakhouse,,Outback Steakhouse,C00253153,PB,,,G2900,S&P94,N,0,1
-C00253260,1994,Republican Party of Alaska,Republican Party of Alaska,Republican Party of Alaska,C00253260,RP,,R,Z5100,Report,N,0,1
 C00253294,1994,Laborers Union/Philadelphia,Laborers Union,Laborers Union,C00253294,PL,,,LB100,Name,N,0,1
 C00253369,1994,AIM Management Group,,AIM Management Group,C00253369,PB,,,F2100,Duns,N,0,1
 C00253401,1994,Citizens for a Better San Francisco,,Citizens for a Better San Francisco,C00253401,PI,, ,Y0000,,N,0,1
@@ -2152,9 +1990,7 @@ C00254219,1994,Child Advocacy PAC,,Child Advocacy PAC,C00254219,PI,,,J7700,Name,
 C00254268,1994,Crown Cork & Seal,,Crown Cork & Seal,C00254268,PB,,,M7300,S&P94,Y,0,1
 C00254318,1994,Victory USA,Vic Fazio (D-Calif),Victory USA,C00254318,PI,,D,J2100,Phone,N,0,1
 C00254466,1994,Riordan & McKinzie,,Riordan & McKinzie,C00254466,PB,,,K1000,MartHubb,N,0,1
-C00254490,1994,Republican Party of Sacramento County,Republican Party of California,Republican Party of California,C00254490,RP,,R,Z5100,Report,N,0,1
 C00254656,1994,Sugar Cane Growers Co-op of Florida,,Sugar Cane Growers Co-op of Florida,C00254656,PB,,,A1200,Name,N,0,1
-C00254821,1994,Democratic Party of El Pas County,Democratic Party of Texas,Democratic Party of Texas,C00254821,DP,,D,Z5200,Report,N,0,1
 C00254847,1994,Western Peanut Growers Assn,,Western Peanut Growers Assn,C00254847,PB,,,A1600,Name,N,0,1
 C00254987,1994,Miami Marine Industry PAC,,Miami Marine Industry PAC,C00254987,PB,, ,Y0000,,N,0,1
 C00255067,1994,DuPont Merck,DuPont Merck,DuPont Merck,C00255067,PB,,,H4300,S&P94,N,0,1
@@ -2170,7 +2006,6 @@ C00255406,1994,Republican National Coalition for Life,,Republican National Coali
 C00255430,1994,Honeywell Federal Systems,,Honeywell International,C00255430,PB,,,C5100,Duns,N,0,1
 C00255489,1994,Arkwright Mills,,Arkwright Mills,C00255489,PB,,,M8000,S&P94,N,0,1
 C00255497,1994,Indo-Americans for Responsible Govt,,Indo-Americans for Responsible Govt,C00255497,PI,,,J7500,Name,N,0,1
-C00255695,1994,Libertarian National Cmte,Libertarian Party,Libertarian Party,C00255695,3P,,L,Z5300,Report,N,0,1
 C00255752,1994,American Society of Anesthesiologists,American Society of Anesthesiologists,American Society of Anesthesiologists,C00255752,PB,,,H1130,WebDA,N,0,1
 C00255877,1994,Options Clearing Corp,,Options Clearing Corp,C00255877,PB,,,F2200,Duns,N,0,1
 C00255885,1994,National Progressive Health PAC,,National Progressive Health PAC,C00255885,PB,,,H4000,Phone,N,0,1
@@ -2185,12 +2020,10 @@ C00256461,1994,United Co,,United Co,C00256461,PB,,,E1210,Duns,N,0,1
 C00256594,1994,Pax PAC,,Pax PAC,C00256594,PI,,,J5100,Phone,N,0,1
 C00256800,1994,V-PAC,Oliver North,V-PAC,C00256800,PI,,R,J2400,Nexis,N,0,1
 C00256958,1994,Giant Industries,,Giant Industries,C00256958,PB,,,E1160,S&P94,Y,0,1
-C00257279,1994,Sonoma County Republican Central Cmte,Republican Party of California,Republican Party of California,C00257279,RP,,R,Z5100,Report,N,0,1
 C00257311,1994,Kokosing Construction,,Kokosing Construction,C00257311,PB,,,B1000,S&P94,N,0,1
 C00257329,1994,Procter & Gamble,,Procter & Gamble,C00257329,PB,,,M1300,S&P94,Y,0,1
 C00257410,1994,Montana Conservation Voters,,Montana Conservation Voters,C00257410,PI,,,JE300,Name,N,0,1
 C00257469,1994,Americans for Democratic Action,Americans for Democratic Action,Americans for Democratic Action,C00257469,OI,P20000741,,J1200,Name,N,0,1
-C00257519,1994,Democratic Party of Travis County,Democratic Party of Texas,Democratic Party of Texas,C00257519,DP,,D,Z5200,Report,N,0,1
 C00257527,1994,Washington Federal Savings & Loan,,Washington Federal Savings & Loan,C00257527,PB,,,F1200,S&P94,N,0,1
 C00257691,1994,Oklahoma Community Action Program PAC,,Oklahoma Community Action Program PAC,C00257691,PB,,,H6000,Phone,N,0,1
 C00258210,1994,Rochester Telephone Corp,,Rochester Telephone Corp,C00258210,PB,,,C4100,S&P94,N,0,1
@@ -2204,19 +2037,16 @@ C00258632,1994,Aecom Technology Corp,,Aecom Technology Corp,C00258632,PB,,,B4000
 C00258640,1994,Special Cmte for Health Care Reform,,Special Cmte for Health Care Reform,C00258640,PU,, ,Y0000,,N,0,1
 C00258897,1994,Oppenheimer Capital,,Oppenheimer Capital,C00258897,PB,,,F2100,S&P94,N,0,1
 C00259135,1994,Association of American Agricultural Insurers,,Association of American Agricultural Insurers,C00259135,PB,,,A4000,Name,N,0,1
-C00259481,1994,Association of State Democratic Chairs,Association of State Democratic Chairs,Association of State Democratic Chairs,C00259481,DP,,D,Z5200,Report,N,0,1
 C00259523,1994,Phoenix Review,,Phoenix Review,C00259523,PI,,,J1100,Phone,N,0,1
 C00259572,1994,American Wind Energy Assn,,American Wind Energy Assn,C00259572,PB,,,E1500,Name,N,0,1
 C00259622,1994,United Refining,,Red Apple Group,C00259622,PB,,,E1170,Duns,N,0,1
 C00260042,1994,USA Now,,USA Now,C00260042,PU,, ,Y0000,,N,0,1
 C00260059,1994,Voices of Women/Oklahoma,,Voices of Women/Oklahoma,C00260059,PU,, ,Y0000,,N,0,1
-C00260067,1994,Democratic Party of Nueces County,Democratic Party of Texas,Democratic Party of Texas,C00260067,DP,,D,Z5200,Report,N,0,1
 C00260075,1994,Committee for an Affordable New Jersey,Gov. Christine Todd Whitman (R-NJ),Committee for an Affordable New Jersey,C00260075,PI,,R,J2500,Phone,N,0,1
 C00260141,1994,Health Care & Retirement Corp,,Health Care & Retirement Corp,C00260141,PB,,,H2200,Hvr05,N,0,1
 C00260299,1994,Presidential Victory Cmte,,Presidential Victory Cmte,C00260299,PI,,,J1100,FOIA,N,0,1
 C00260323,1994,Teamsters Joint Council 73,Teamsters Union,Teamsters Union,C00260323,PL,,,LT300,Name,N,0,1
 C00260463,1994,Louisiana Power & Light,Entergy Corp,Entergy Corp,C00260463,PB,,,E1600,S&P94,N,0,1
-C00260653,1994,District of Columbia Democratic Cmte,District of Columbia Democratic Cmte,District of Columbia Democratic Cmte,C00260653,DP,,D,Z5200,Report,N,0,1
 C00260729,1994,Family Values PAC,,Family Values PAC,C00260729,PI,,,J1100,Zuck,N,0,1
 C00260786,1994,Learjet Inc,,Learjet Inc,C00260786,PB,,,T1200,S&P94,N,1,1
 C00260810,1994,Merrill Lynch,Merrill Lynch,Merrill Lynch,C00260810,PB,,,F2100,S&P91,N,0,1
@@ -2225,7 +2055,6 @@ C00261180,1994,Ensign-Bickford Industries,,Ensign-Bickford Industries,C00261180,
 C00261321,1994,Women's Leadership Network,,Women's Leadership Network,C00261321,PI,,,J1100,Phone,N,0,1
 C00261339,1994,Hogan & Hartson,,Hogan & Hartson,C00261339,PB,,,K1000,Duns,N,0,1
 C00261719,1994,1992 Republican Senate/House Dinner Cmte,,1992 Republican Senate/House Dinner Cmte,C00261719,RP,,R,Z4100,Report,N,0,1
-C00261891,1994,Republican Central Cmte/Los Angeles County,Republican Party of California,Republican Party of California,C00261891,RP,,R,Z5100,Report,N,0,1
 C00261933,1994,Railway Progress Institute,,Railway Progress Institute,C00261933,PB,,,T5100,Name,N,0,1
 C00261941,1994,White & Williams,,White & Williams,C00261941,PB,,,K1000,Duns,N,0,1
 C00262055,1994,National Assn of Automobile Dealers,,National Assn of Automobile Dealers,C00262055,PB,,,T2300,Name,N,0,1
@@ -2235,7 +2064,6 @@ C00262295,1994,Cellular Telecom Industry Assn,,Cellular Telecom Industry Assn,C0
 C00262303,1994,Council of New Jersey Chiropractors,,Council of New Jersey Chiropractors,C00262303,PB,,,H1500,Name,N,0,1
 C00262923,1994,1994 Federal Independent Campaign Cmte,,1994 Federal Independent Campaign Cmte,C00262923,PU,, ,Y0000,NoWeb,N,0,1
 C00262972,1994,Firstar Corp of Iowa,,Firstar Corp of Iowa,C00262972,PB,,,F1100,S&P94,N,0,1
-C00263053,1994,Republican Central Cmte/San Luis Obispo County,Republican Party of California,Republican Party of California,C00263053,RP,,R,Z5100,Report,N,0,1
 C00263483,1994,S&T Bank,,S&T Bank,C00263483,PB,,,F1100,S&P94,N,0,1
 C00263558,1994,NovaCare Inc,,NovaCare Inc,C00263558,PB,,,H3000,S&P94,N,0,1
 C00263723,1994,Great-West Life & Annuity Insurance,,Great-West Life & Annuity Insurance,C00263723,PB,,,F3300,Hvr03,Y,1,1
@@ -2256,7 +2084,6 @@ C00265546,1994,Southern States Police Benevolent Assn,,Southern States Police Be
 C00265553,1994,"Doepken, Keevican et al",,"Doepken, Keevican et al",C00265553,PB,,,K1000,Duns,N,0,1
 C00265561,1994,Bay Area Non-Partisan Alliance,,Bay Area Non-Partisan Alliance,C00265561,PI,,,J7300,Phone,N,0,1
 C00265595,1994,AES Shady Point,,AES Shady Point,C00265595,PB,,,E1630,Phone,N,0,1
-C00265603,1994,Kern County Republican Central Cmte,Republican Party of California,Republican Party of California,C00265603,RP,,R,Z5100,Report,N,0,1
 C00265652,1994,American Watch Assn,,American Watch Assn,C00265652,PB,,,M9300,WashReps,N,0,1
 C00266031,1994,Wholesale Beer Distributors of Arkansas,,Wholesale Beer Distributors of Arkansas,C00266031,PB,,,G2850,Name,N,0,1
 C00266049,1994,New Jersey Environmental Federation,New Jersey Environmental Federation,New Jersey Environmental Federation,C00266049,PI,,,JE300,FOIA,N,0,1
@@ -2265,7 +2092,6 @@ C00266387,1994,Houston Pilots,,Houston Pilots,C00266387,PB,,,T6200,Duns,N,0,1
 C00266536,1994,Phillips Publishing International,,Phillips Publishing International,C00266536,PB,,,C1100,Phone,N,0,1
 C00266551,1994,Amvest Corp,,Amvest Corp,C00266551,PB,,,E1210,S&P94,Y,0,1
 C00266585,1994,"Greenberg, Traurig et al",,"Greenberg, Traurig et al",C00266585,PB,,,K1000,MartHubb,N,0,1
-C00266759,1994,Natural Law Party of the US,Natural Law Party,Natural Law Party,C00266759,3P,,3,Z5300,Report,N,0,1
 C00267039,1994,Zeigler Coal Holding Co,,Zeigler Coal Holding Co,C00267039,PB,,,E1210,Duns,N,0,1
 C00267062,1994,Lancaster City & County Medical Society,,Lancaster City & County Medical Society,C00267062,PB,,,H1100,Name,N,0,1
 C00267096,1994,Our Choice II,,Our Choice II,C00267096,PI,,,J7150,Phone,N,0,1
@@ -2281,7 +2107,6 @@ C00268334,1994,National Jewish Democratic Council,,National Jewish Democratic Co
 C00268904,1994,Trinity Industries,,Trinity Industries,C00268904,PB,,,T5200,S&P94,Y,0,1
 C00269241,1994,Republican Liberty Federal Campaign Fund,,Republican Liberty Federal Campaign Fund,C00269241,PI,,,J1100,Phone,N,0,1
 C00269258,1994,DiFrancesco '93,State Sen. Don DiFrancesco (R-NJ),DiFrancesco '93,C00269258,PI,,R,J2500,Phone,N,0,1
-C00269290,1994,Natural Law Party of the Iowa,Natural Law Party,Natural Law Party,C00269290,3P,,3,Z5300,Report,N,0,1
 C00269407,1994,Future Leaders PAC,Jerry Lewis (R-Calif),Future Leaders PAC,C00269407,PI,,R,J2200,Phone,N,0,1
 C00269498,1994,California College Republicans,,California College Republicans,C00269498,PI,,,J1100,Name,N,0,1
 C00269779,1994,Lone Star Fund,Martin Frost (D-Texas),Lone Star Fund,C00269779,PI,,D,J2100,Kent,N,0,1
@@ -2289,19 +2114,12 @@ C00270280,1994,Mid-American Waste Systems,,Mid-American Waste Systems,C00270280,
 C00270421,1994,Stimson Lane Ltd,UST Inc,UST Inc,C00270421,PB,,,G2820,S&P94,N,0,1
 C00270439,1994,Your Pro-Choice Voter Guide,,Your Pro-Choice Voter Guide,C00270439,PI,,,J7150,Name,N,0,1
 C00270520,1994,North American Insulation Manufacturers Assn,,North American Insulation Manufacturers Assn,C00270520,PB,,,B5400,Name,N,0,1
-C00270538,1994,Natural Law Party of Nevada,Natural Law Party,Natural Law Party,C00270538,3P,,3,Z5300,Report,N,0,1
 C00270702,1994,Sizzler International Inc,,Sizzler International Inc,C00270702,PB,,,G2900,S&P94,N,0,1
-C00270850,1994,Victory '92 Federal Party,,Victory '92 Federal Party,C00270850,RP,,R,Z5100,Report,N,0,1
-C00270868,1994,Democratic Party of Bexar County,Democratic Party of Texas,Democratic Party of Texas,C00270868,DP,,D,Z5200,Report,N,0,1
-C00270934,1994,Stark County Republican Organization,Republican Party of Ohio,Republican Party of Ohio,C00270934,RP,,R,Z5100,Report,N,0,1
 C00270967,1994,NE & Western Pennsylvania Blue Cross,Blue Cross/Blue Shield,Blue Cross/Blue Shield,C00270967,PB,,,F3200,Name,N,0,1
 C00271007,1994,Employers Health Insurance,,Employers Health Insurance,C00271007,PB,,,F3100,Duns,N,0,1
-C00271064,1994,Natural Law Party of Michigan,Natural Law Party,Natural Law Party,C00271064,3P,,3,Z5300,Report,N,0,1
-C00271098,1994,Natural Law Party of Ohio,Natural Law Party,Natural Law Party,C00271098,3P,,3,Z5300,Report,N,0,1
 C00271338,1994,AmeriPAC: The Fund for a Greater America,Steny H. Hoyer (D-Md),AmeriPAC: The Fund for a Greater America,C00271338,PI,,D,J2100,JFG,N,0,1
 C00271361,1994,California Energy,,California Energy,C00271361,PB,,,E1500,S&P94,N,0,1
 C00271817,1994,Vectra Technologies Inc,,Vectra Technologies Inc,C00271817,PB,,,E3000,S&P94,Y,0,1
-C00271890,1994,Natural Law Party of Maryland,Natural Law Party,Natural Law Party,C00271890,3P,,3,Z5300,Report,N,0,1
 C00272104,1994,John Quincy Adams Society,,John Quincy Adams Society,C00272104,PI,,,G1300,Web,N,0,1
 C00272724,1994,"Maynard, Cooper et al",,"Maynard, Cooper et al",C00272724,PB,,,K1000,Duns,N,0,1
 C00272880,1994,KeyCorp,KeyCorp,KeyCorp,C00272880,PB,,,F1100,S&P94,N,0,1
@@ -2309,28 +2127,19 @@ C00273003,1994,American Assn of Clinical Urologists,,American Assn of Clinical U
 C00273011,1994,Central Coast Campaign '92,,Central Coast Campaign '92,C00273011,PU,, ,Y0000,,N,0,1
 C00273136,1994,"Olsson, Frank & Weeda",,"Olsson, Frank & Weeda",C00273136,PB,,,K1000,WashReps,Y,0,1
 C00273292,1994,Rural Americans for Fairness,,Rural Americans for Fairness,C00273292,PI,,,J9000,Nexis,N,0,1
-C00273458,1994,59th Assembly District Repub Cent Cmte,Republican Party of California,Republican Party of California,C00273458,RP,,R,Z5100,Report,N,0,1
-C00273540,1994,Shelby County Republican Party,Republican Party of Alabama,Republican Party of Alabama,C00273540,RP,,R,Z5100,Report,N,0,1
-C00273607,1994,Orange County Democratic Central Cmte,Democratic Party of California,Democratic Party of California,C00273607,DP,,D,Z5200,Report,N,0,1
 C00273706,1994,Choice PAC,,Choice PAC,C00273706,PU,, ,Y0000,,N,0,1
 C00273714,1994,Hispanic Women's Leadership Alliance,,Hispanic Women's Leadership Alliance,C00273714,PI,,,J7500,Name,N,0,1
-C00273755,1994,Eleventh District of Virginia Repub Cmte,Republican Party of Virginia,Republican Party of Virginia,C00273755,RP,,R,Z5100,Report,N,0,1
 C00273961,1994,Connecticut Cncl On Occ Safety & Health,,Connecticut Cncl On Occ Safety & Health,C00273961,PO,,,X4000,WebEC,N,0,1
-C00274001,1994,21st Century PAC of Texas,Democratic Party of Texas,Democratic Party of Texas,C00274001,DP,,D,Z5200,Report,N,0,1
-C00274019,1994,Democratic Party of Galveston County,Democratic Party of Texas,Democratic Party of Texas,C00274019,DP,,D,Z5200,Report,N,0,1
 C00274035,1994,Rotary Power International,,Rotary Power International,C00274035,PB,,,D4000,S&P94,Y,0,1
 C00274159,1994,Scrap PAC,,Scrap PAC,C00274159,PB,,,M2400,Name,N,0,1
 C00274233,1994,National Cmte for Conservative Political Action,,National Cmte for Conservative Political Action,C00274233,PI,,,J1100,Name,N,0,1
 C00274274,1994,Alabama Solution,,Alabama Solution,C00274274,PI,,,J7400,Phone,N,0,1
-C00274407,1994,Sixth District Democratic Party of Wisconsin,Democratic Party of Wisconsin,Democratic Party of Wisconsin,C00274407,DP,,D,Z5200,Report,N,0,1
-C00274423,1994,Sacramento County Democratic Central Cmte,Democratic Party of California,Democratic Party of California,C00274423,DP,,D,Z5200,Report,N,0,1
 C00274431,1994,United HealthCare Corp,,United HealthCare Corp,C00274431,PB,,,H3700,S&P94,N,0,1
 C00274464,1994,Agents for Good Government,,Agents for Good Government,C00274464,PB,,,F3100,OS92,N,0,1
 C00274480,1994,Freedom Leadership PAC,,Freedom Leadership PAC,C00274480,PI,,,J1100,Nexis,N,0,1
 C00274498,1994,Space Coast Family Forum,,Space Coast Family Forum,C00274498,PU,, ,Y0000,,N,0,1
 C00274647,1994,Business Interested in Government,,Business Interested in Government,C00274647,PU,, ,Y0000,,N,0,1
 C00274688,1994,Lavender Message Project,,Lavender Message Project,C00274688,PU,, ,Y0000,,N,0,1
-C00274894,1994,College Democrats of America,College Democrats of America,College Democrats of America,C00274894,DP,,D,Z5200,Report,N,0,1
 C00274944,1994,College of American Pathologists,,College of American Pathologists,C00274944,PB,,,H1130,Name,N,0,1
 C00275123,1994,Diagnostic/Retrieval Systems Inc,,Diagnostic/Retrieval Systems Inc,C00275123,PB,,,D3000,S&P94,N,0,1
 C00275149,1994,Americans for Change/ASDC,,Americans for Change/ASDC,C00275149,PU,, ,Y0000,,N,0,1
@@ -2343,10 +2152,7 @@ C00275446,1994,Montana Hunters-Anglers PAC,,Montana Hunters-Anglers PAC,C0027544
 C00275479,1994,Ohio Democratic Party Victory 92 Fund,,Ohio Democratic Party Victory 92 Fund,C00275479,DP,S4OH00010,D,Z4200,Report,N,0,1
 C00275529,1994,Cash America International,,Cash America International,C00275529,PB,,,F1420,wda17,Y,0,1
 C00275537,1994,Farmers & Ranchers 92,,Farmers & Ranchers 92,C00275537,PB,,,A0000,Name,N,0,1
-C00275578,1994,59th Assembly District Cmte,Democratic Party of California,Democratic Party of California,C00275578,DP,,D,Z5200,Report,N,0,1
-C00275628,1994,Suffolk County Republican Cmte,Republican Party of New York,Republican Party of New York,C00275628,RP,,R,Z5100,Report,N,0,1
 C00275651,1994,Committee to Out Bush,,Committee to Out Bush,C00275651,PU,, ,Y0000,,N,0,1
-C00275842,1994,Independence Party,Independence Party,Independence Party,C00275842,3P,,3,Z5300,Report,N,0,1
 C00275917,1994,Taiwanese American PAC,,Taiwanese American PAC,C00275917,PI,,,J7500,Name,N,0,1
 C00276006,1994,Students for Deficit Reduction,,Students for Deficit Reduction,C00276006,PU,, ,Y0000,NoWeb,N,0,1
 C00276014,1994,Arts PAC,,Arts PAC,C00276014,PI,,,J9000,Name,N,0,1
@@ -2361,22 +2167,15 @@ C00276626,1994,Nutritional Health Alliance,,Nutritional Health Alliance,C0027662
 C00276774,1994,Posthumus Victory Fund USA,State Sen. Dick Posthumus (R-MI),Posthumus Victory Fund USA,C00276774,PI,,R,J2500,Phone,N,0,1
 C00276782,1994,EnviroSource Inc,,EnviroSource Inc,C00276782,PB,,,E3000,S&P94,N,0,1
 C00276956,1994,OrNda Healthcorp,,OrNda Healthcorp,C00276956,PB,,,H2100,WebAM,N,0,1
-C00276964,1994,Queens County Democratic Organization,Democratic Party of New York,Democratic Party of New York,C00276964,DP,,D,Z5200,Report,N,0,1
 C00276998,1994,Association for Health Care Reform,,Association for Health Care Reform,C00276998,PI,,,JH100,Phone,N,0,1
 C00277012,1994,Lone Star Industries,,Lone Star Industries,C00277012,PB,,,B5100,S&P94,N,0,1
 C00277020,1994,Abraham Lincoln PAC,,Abraham Lincoln PAC,C00277020,PU,, ,Y0000,,N,0,1
 C00277046,1994,Committee for Responsible Labor-Mgmt Relation,,Committee for Responsible Labor-Mgmt Relation,C00277046,PU,, ,Y0000,,N,0,1
-C00277061,1994,Shelby County Democratic Party,Democratic Party of Tennessee,Democratic Party of Tennessee,C00277061,DP,,D,Z5200,Report,N,0,1
 C00277095,1994,Democrats & Independents for Life,,Democrats & Independents for Life,C00277095,OI,,,J7120,Name,N,0,1
 C00277129,1994,Maryland Coalition to Stop Ethnic Cleans,,Maryland Coalition to Stop Ethnic Cleans,C00277129,PU,, ,Y0000,,N,0,1
 C00277152,1994,Rogers Group,,Rogers Group,C00277152,PB,,,B1000,S&P94,Y,0,1
-C00277236,1994,Prince William County Democratic Cmte,Democratic Party of Virginia,Democratic Party of Virginia,C00277236,DP,,D,Z5200,Report,N,0,1
-C00277335,1994,Fairfax County Republican Cmte,Republican Party of Virginia,Republican Party of Virginia,C00277335,RP,,R,Z5100,Report,N,0,1
-C00277368,1994,Third District Demcoratic Central Cmte,Democratic Party of Iowa,Democratic Party of Iowa,C00277368,DP,,D,Z5200,Report,N,0,1
-C00277426,1994,Vermont State Democratic Cmte,Democratic Party of Vermont,Democratic Party of Vermont,C00277426,DP,,D,Z5200,Report,N,0,1
 C00277509,1994,Republican Majority Coalition,,Republican Majority Coalition,C00277509,PI,,,J1100,Name,N,0,1
 C00277517,1994,Vought Aircraft,,Vought Aircraft,C00277517,PB,,,D2000,Duns,Y,0,1
-C00277541,1994,Fairfax County Democratic Cmte,Democratic Party of Virginia,Democratic Party of Virginia,C00277541,DP,,D,Z5200,Report,N,0,1
 C00277608,1994,Citizens for Responsible Government,,Citizens for Responsible Government,C00277608,PI,,,J9000,WebAM,N,0,1
 C00277657,1994,Wake Up America Cmte,,Wake Up America Cmte,C00277657,PU,, ,Y0000,,N,0,1
 C00277855,1994,Teamsters Local 63,Teamsters Union,Teamsters Union,C00277855,PL,,,LT300,Name,N,0,1
@@ -2386,7 +2185,6 @@ C00277905,1994,"Pirtle, Morisset et al",,"Pirtle, Morisset et al",C00277905,PB,,
 C00277954,1994,Penn AG Democrats,,Penn AG Democrats,C00277954,PI,,,J1200,Name,N,0,1
 C00278036,1994,National Muslims for a Better America,,National Muslims for a Better America,C00278036,PI,,,J7500,WebEC,N,0,1
 C00278101,1994,Gun Owners of America,,Gun Owners of America,C00278101,PI,,,J6200,Name,N,0,1
-C00278150,1994,Tompkins County Democratic Cmte,Democratic Party of New York,Democratic Party of New York,C00278150,DP,,D,Z5200,Report,N,0,1
 C00278168,1994,Nordic Power Inc,,Nordic Power Inc,C00278168,PB,, ,Y0000,,N,0,1
 C00278267,1994,Catoosa Taxpayer's Alliance,,Catoosa Taxpayer's Alliance,C00278267,PU,, ,Y0000,,N,0,1
 C00278275,1994,Family Express Corp,,Family Express Corp,C00278275,PB,,,G4300,Phone,Y,0,1
@@ -2425,11 +2223,9 @@ C00279737,1994,Operating Engineers Local 99,Operating Engineers Union,Operating 
 C00279760,1994,Brian Boyle Recognition Cmte,,Brian Boyle Recognition Cmte,C00279760,RP,,R,Z4100,Rept,N,0,1
 C00279786,1994,Vitas Healthcare,,Vitas Healthcare,C00279786,PB,,,H3100,Duns,N,0,1
 C00279794,1994,1993 Republican Senate/House Dinner Cmte,1993 Republican Senate/House Dinner Cmte,1993 Republican Senate/House Dinner Cmte,C00279794,RP,,R,Z4100,Report,N,0,1
-C00279802,1994,National Cmte of the US Taxpayers Party,National Cmte of the US Taxpayers Party,National Cmte of the US Taxpayers Party,C00279802,3P,,3,Z5300,Report,N,0,1
 C00279828,1994,Textile Rental Services Assn of America,,Textile Rental Services Assn of America,C00279828,PB,,,G5500,Name,N,0,1
 C00279836,1994,Arizona Orthopaedic Society,American Academy of Orthopaedic Surgeons,American Academy of Orthopaedic Surgeons,C00279836,PB,,,H1130,Name,N,0,0
 C00280008,1994,"Akerman, Senterfitt & Eidson",,"Akerman, Senterfitt & Eidson",C00280008,PB,,,K1000,,N,0,1
-C00280040,1994,Official 12th District Democratic Party,Democratic Party of Michigan,Democratic Party of Michigan,C00280040,DP,,D,Z5200,Report,N,0,1
 C00280057,1994,Susan B Anthony List,,Susan B Anthony List,C00280057,PI,,,J7120,Flyer,N,0,1
 C00280172,1994,Pennsylvania Action PAC,,Pennsylvania Action PAC,C00280172,PU,, ,Y0000,,N,0,1
 C00280222,1994,KPMG Peat Marwick,,KPMG Peat Marwick,C00280222,PB,,,F5100,Duns,N,0,1
@@ -2453,7 +2249,6 @@ C00280735,1994,Operation Last Laugh,,Operation Last Laugh,C00280735,PU,, ,Y0000,
 C00280743,1994,Association of American Railroads,,Association of American Railroads,C00280743,PB,,,T5100,Name,N,0,1
 C00280883,1994,Computing Devices International,,Computing Devices International,C00280883,PB,,,C5100,S&P94,Y,0,1
 C00280909,1994,AFL-CIO Transportation Trades Dept,AFL-CIO,AFL-CIO,C00280909,PL,,,LT000,Name,N,0,1
-C00280974,1994,South Carolina Republican Victory 92,,South Carolina Republican Victory 92,C00280974,RP,,R,Z5100,Report,N,0,1
 C00281014,1994,Warner-Nickles 1993 Cmte,,Warner-Nickles 1993 Cmte,C00281014,RP,S8VA00107,R,Z4100,,N,0,1
 C00281022,1994,Cancer Treatment Center of Tulsa,,Cancer Treatment Center of Tulsa,C00281022,PB,,,H2000,Name,N,0,1
 C00281048,1994,Willie Brown for Assembly,,Willie Brown for Assembly,C00281048,PI,,D,J2500,Name,N,0,1
@@ -2464,8 +2259,6 @@ C00281170,1994,America's Fund,,America's Fund,C00281170,PU,, ,Y0000,,N,0,1
 C00281188,1994,Leadership for America,Phil Gramm (R-Texas),Leadership for America,C00281188,PI,,R,J2200,JFG/WSJ,N,0,1
 C00281212,1994,GDE Systems Inc,,GDE Systems Inc,C00281212,PB,,,D3000,Duns,N,0,1
 C00281220,1994,Youth National Organization for Tomorrow,,Youth National Organization for Tomorrow,C00281220,PI,,,J1200,Phone,N,0,1
-C00281303,1994,Plumbers/Pipefitters Union Local 85,Plumbers/Pipefitters Union,Plumbers/Pipefitters Union,C00281303,PL,,,LB100,Name,N,0,1
-C00281311,1994,Lincoln Society of Alaska,Republican Party of Alaska,Republican Party of Alaska,C00281311,RP,,R,Z5100,Report,N,0,1
 C00281352,1994,Performance Engineering Corp,,Performance Engineering Corp,C00281352,PB,, ,Y0000,,N,0,1
 C00281360,1994,S-PAC                                   ,,S-PAC,C00281360,PB,,,K2000,WR96,N,0,1
 C00281410,1994,Lebanese American PAC,,Lebanese American PAC,C00281410,PI,,,J5000,Name,N,0,1
@@ -2496,7 +2289,6 @@ C00282459,1994,Lignite Energy Council,,Lignite Energy Council,C00282459,PB,,,E12
 C00282558,1994,Schuller International,Manville Corp,Manville Corp,C00282558,PB,,,B5000,S&P94,N,0,1
 C00282566,1994,Riverwood International,,Riverwood International,C00282566,PB,,,A5000,S&P94,N,0,1
 C00282632,1994,Leadership for America Cmte,Gerald B. H. Solomon (R-NY),Leadership for America Cmte,C00282632,PI,,R,J2200,AFP96,N,0,1
-C00282673,1994,Summer Session Cmte,Republican Party of Michigan,Republican Party of Michigan,C00282673,RP,,R,Z5100,Report,N,0,1
 C00282723,1994,Last American to Elect Phil Gramm in 96,,Last American to Elect Phil Gramm in 96,C00282723,PU,P60001344, ,Y0000,,N,0,1
 C00282731,1994,Countrywide Credit Industries,,Countrywide Credit Industries,C00282731,PB,,,F4600,S&P94,N,0,1
 C00282806,1994,Senate Victory Fund,Senate Victory Fund,Senate Victory Fund,C00282806,DP,S8TX00020,D,Z4200,,N,0,1
@@ -2654,7 +2446,6 @@ C00295741,1994,Constitutional Congr Campaign Cmte,,Constitutional Congr Campaign
 C00295758,1994,"Dyer, Ellis et al",,"Dyer, Ellis et al",C00295758,PB,,,K1000,WashReps,N,0,1
 C00295881,1994,Grenada Sunburst System Corp,,Grenada Sunburst System Corp,C00295881,PB,,,F1100,S&P96,N,0,1
 C00295949,1994,Log Cabin Clubs of Pennsylvania,,Log Cabin Clubs of Pennsylvania,C00295949,PU,, ,Y0000,,N,0,1
-C00295964,1994,Democratic Party of the District of Columbia,Democratic Party of the District of Columbia,Democratic Party of the District of Columbia,C00295964,DP,,D,Z5200,Rept,N,0,1
 C00296020,1994,Compaq Computer,,Compaq Computer,C00296020,PB,,,C5110,S&P94,N,0,1
 C00296160,1994,Kennedy/DSCC Victory Fund,,Kennedy/DSCC Victory Fund,C00296160,DP,S6MA00015,D,Z4200,Report,N,0,1
 C00296236,1994,Ohio Victory 94,,Ohio Victory 94,C00296236,DP,S2OH00105,D,Z4200,Report,N,0,1
@@ -2685,7 +2476,6 @@ C00297606,1994,Mississippi Pharmacists Assn,,Mississippi Pharmacists Assn,C00297
 C00297614,1994,DermPAC,,DermPAC,C00297614,PB,,,H1130,Phone,N,0,1
 C00297622,1994,Oklahoma Grocers Assn,National Grocers Assn,National Grocers Assn,C00297622,PB,,,G2400,Name,N,0,1
 C00297689,1994,Reform Congress 94,,Reform Congress 94,C00297689,PU,, ,Y0000,,N,0,1
-C00297705,1994,United Democratic Headqrtrs of Pasadena,,United Democratic Headqrtrs of Pasadena,C00297705,DP,,D,Z5200,Report,N,0,1
 C00297747,1994,Contraves Inc,,Contraves Inc,C00297747,PB,,,C5000,S&P94,N,0,1
 C00297853,1994,United Catcher Boats,,United Catcher Boats,C00297853,PB,,,E4100,Name,N,0,1
 C00297895,1994,San Diego Victory '94 Cmte,,San Diego Victory '94 Cmte,C00297895,DP,H2CA50034,D,Z4200,Report,N,0,1
@@ -2701,7 +2491,6 @@ C00298026,1994,American Muslim Alliance,,American Muslim Alliance,C00298026,PI,,
 C00298125,1994,Montanans for Mudd/Williams,,Montanans for Mudd/Williams,C00298125,DP,S4MT00068,D,Z4200,Report,N,0,1
 C00298133,1994,Santa Fe Pacific Gold,Santa Fe Pacific Corp,Santa Fe Pacific Corp,C00298133,PB,,,E1220,S&P96,N,0,1
 C00298141,1994,National Taxpayers Union,,National Taxpayers Union,C00298141,PI,,,J4000,Name,N,0,1
-C00298158,1994,38th Democratic AD Cmte,Democratic Party of California,Democratic Party of California,C00298158,DP,,D,Z5200,Report,N,0,1
 C00298182,1994,Triangle Alliance of Marin,,Triangle Alliance of Marin,C00298182,PU,, ,Y0000,,N,0,1
 C00298190,1994,American Short Line Railroad Assn,,American Short Line Railroad Assn,C00298190,PB,,,T5100,WebDA,N,0,1
 C00298216,1994,Oklahoma Victory Fund,,Oklahoma Victory Fund,C00298216,DP,S4OK00091,D,Z4200,Report,N,0,1
@@ -2725,7 +2514,6 @@ C00298778,1994,Elect! for Animals,,Elect! for Animals,C00298778,PI,,,J7600,Phone
 C00298794,1994,'94 Tennessee Victory Fund,,'94 Tennessee Victory Fund,C00298794,DP,H2TN07038,D,Z4200,,N,0,1
 C00298828,1994,Home Builders Assn of Louisville,National Assn of Home Builders,National Assn of Home Builders,C00298828,PB,, ,B2000,AFP98,N,0,1
 C00298851,1994,First Fidelity Bancorp New York,First Fidelity Bancorp,First Fidelity Bancorp,C00298851,PB,,,F1100,Duns,N,0,1
-C00298869,1994,Democratic Cmte of Allegheny County,Democratic Party of Pennsylvania,Democratic Party of Pennsylvania,C00298869,DP,,D,Z5200,Report,N,0,1
 C00298885,1994,Bear Creek Corp,Shaklee Corp,Shaklee Corp,C00298885,PB,,,G4700,Hvr02,N,1,1
 C00298927,1994,New Jersey Cmte 94,,New Jersey Cmte 94,C00298927,DP,S2NJ00080,D,Z4200,Report,N,0,1
 C00298935,1994,First Fidelity Bancorp,First Fidelity Bancorp,First Fidelity Bancorp,C00298935,PB,,,F1100,Name,N,0,1
@@ -2737,9 +2525,7 @@ C00299149,1994,Leadership of Today & Tomorrow,,Leadership of Today & Tomorrow,C0
 C00299222,1994,Nevadans for Change,,Nevadans for Change,C00299222,RP,S4NV00056,R,Z4100,Report,N,0,1
 C00299289,1994,"Seyburn, Kahn et al",,"Seyburn, Kahn et al",C00299289,PB,,,K1000,WebEW,N,0,1
 C00299305,1994,5th Dist Bipartisan Cmte,,5th Dist Bipartisan Cmte,C00299305,PU,, ,Y0000,,N,0,1
-C00299339,1994,Democratic Party of Genesee County,Democratic Party of Michigan,Democratic Party of Michigan,C00299339,DP,,D,Z5200,Report,N,0,1
 C00299354,1994,Win Washington 94,,Win Washington 94,C00299354,DP,S4WA00334,D,Z4200,Report,N,0,1
-C00299388,1994,Montgomery Cnty Democratic Cmte,Democratic Party of Pennsylvania,Democratic Party of Pennsylvania,C00299388,DP,,D,Z5200,Report,N,0,1
 C00299396,1994,Italian American Dem Leadership Council,,Italian American Dem Leadership Council,C00299396,PI,,,J1200,Name,N,0,1
 C00299446,1994,Valley Citizens for Accountability,,Valley Citizens for Accountability,C00299446,PU,, ,Y0000,,N,0,1
 C00299537,1994,Do It,,Do It,C00299537,OI,H6WI07033, ,Y0000,,N,0,1
@@ -2757,8 +2543,6 @@ C00300293,1994,Moderate Agenda,,Moderate Agenda,C00300293,PI,,,J9000,Phone,N,0,1
 C00300921,1994,Black America's PAC,,Black America's PAC,C00300921,PI,,,J7500,WAA17,N,0,1
 C00300996,1994,Fee Enterprises Ltd,,Fee Enterprises Ltd,C00300996,PB,, ,Y0000,,N,0,1
 C00301291,1994,Committee to Elect Greg Fajt PAC,,Committee to Elect Greg Fajt PAC,C00301291,PU,, ,Y0000,,N,0,1
-C00303131,1994,Ventura County Republican Central Cmte,Republican Party of California,Republican Party of California,C00303131,RP,,R,Z5100,Report,N,0,1
-C00303693,1994,Tulare County Republican Central Cmte,Republican Party of California,Republican Party of California,C00303693,RP,,R,Z5100,Report,N,0,1
 C00303826,1994,Tax Fighters for Baldwin,,Tax Fighters for Baldwin,C00303826,PU,, ,Y0000,,N,0,1
 C00324020,1994,L'Garde Inc,,L'Garde Inc,C00324020,PB,,,T1700,WebEC,N,0,1
 C60000031,1994,DCDC/Non-Federal 1,Democratic Congressional Dinner Cmte,Democratic Congressional Dinner Cmte,C60000031,DP,,D,Z4200,Report,N,0,1
@@ -2772,4 +2556,3 @@ C90004995,1994,Planned Parenthood/Wisconsin,Planned Parenthood,Planned Parenthoo
 C90005216,1994,Foes of Farr,,Foes of Farr,C90005216,PU,, ,Y0000,,N,0,1
 C99002305,1994,St Joseph County Right to Life,Right to Life,Right to Life,C99002305,PI,,,J7120,Name,N,0,1
 C99002396,1994,"American PAC/Bellevue, WA",,"American PAC/Bellevue, WA",C99002396,PI,P00000232,,J1100,Phone,N,0,1
-C99003428,1994,Third District Republican Party,Republican Party of Wisconsin,Republican Party of Wisconsin,C99003428,RP,H0WI03035,R,Z5100,Report,N,0,1

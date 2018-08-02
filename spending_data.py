@@ -7,6 +7,7 @@ from tqdm import tqdm
 # IMPORTANT: this variable is the last two digits of the EARLIEST YEAR of data
 # that will be considered when finding candidate and committee IDs c- it cannot go before 1990 as data before then is
 # not available
+testcmte = 'C00002907'
 earliest = 1990
 
 # These globals are very important and determine which rows of csvs are considered in the analysis -----------------------
@@ -60,10 +61,10 @@ crp_csv_kwargs = {'sep':',', 'quotechar':'|', 'skipinitialspace':True, 'encoding
 # Create dialects and filepaths ---------------------------------------------------------------------
 
 # Paths for 527 files - these do not depend on the cycle
-cmtes527path = "data/raw_crp_spending_data/527/cmtes527.txt"
-expends527path = "data/raw_crp_spending_data/527/expends527.txt"
-rcpts527path = "data/raw_crp_spending_data/527/rcpts527.txt"
-catcodes_path = "data/raw_crp_spending_data/CRP Industry Codes - 12.11.17.csv"
+cmtes527path = "data/raw/crp_spending_data/527/cmtes527.txt"
+expends527path = "data/raw/crp_spending_data/527/expends527.txt"
+rcpts527path = "data/raw/crp_spending_data/527/rcpts527.txt"
+catcodes_path = "data/raw/crp_spending_data/CRP Industry Codes - 12.11.17.csv"
 
 class CRP_Spending_Data():
     """
@@ -78,11 +79,11 @@ class CRP_Spending_Data():
 
         # Get paths for raw data, as well as headers
         self.year = year
-        self.candspath = 'data/raw_crp_spending_data/cands' + str(year)[2:4] + '.txt'
-        self.cmtespath = 'data/raw_crp_spending_data/cmtes' + str(year)[2:4] + '.txt'
-        self.pacspath = 'data/raw_crp_spending_data/pacs' + str(year)[2:4] + '.txt'
-        self.otherpacspath = 'data/raw_crp_spending_data/pac_other' + str(year)[2:4] + '.txt'
-        self.indivspath = 'data/raw_crp_spending_data/indivs' + str(year)[2:4] + '.txt'
+        self.candspath = 'data/raw/crp_spending_data/cands' + str(year)[2:4] + '.txt'
+        self.cmtespath = 'data/raw/crp_spending_data/cmtes' + str(year)[2:4] + '.txt'
+        self.pacspath = 'data/raw/crp_spending_data/pacs' + str(year)[2:4] + '.txt'
+        self.otherpacspath = 'data/raw/crp_spending_data/pac_other' + str(year)[2:4] + '.txt'
+        self.indivspath = 'data/raw/crp_spending_data/indivs' + str(year)[2:4] + '.txt'
         self.time0 = time.time()
 
     # Read the files - the reason these have their own definitions is to allow for various bits of data processing later on.
@@ -182,7 +183,7 @@ class CRP_Spending_Data():
         :param valid_types: A list of types to subset to. Defaults to None.
         """
         #print('Reading individuals file for {} at time {}'.format(self.year, time.time() - self.time0))
-        indivs = pd.read_csv(self.indivspath, dtype = {15:'str', 17:'str', 19:'str'}, **crp_csv_kwargs, **kwargs)
+        indivs = pd.read_csv(self.indivspath, dtype = {6:'str', 13:'str', 15:'str', 17:'str', 19:'str'}, **crp_csv_kwargs, **kwargs)
         #print('Finished reading individuals file for {} at time {}'.format(self.year, time.time() - self.time0))
         indivs.columns = indivs_columns
         indivs['RealCode'] = indivs['RealCode'].apply(lambda x: str(x).upper())
@@ -239,7 +240,6 @@ class CRP_Spending_Data():
         simple_spending_to_add = otherpacs_simple_spending.groupby(['RecipID', 'RealCode'])['Amount'].sum().unstack().fillna(0)
         simple_spending = simple_spending.add(simple_spending_to_add, fill_value = 0).fillna(0)
 
-
         # -- -- -- -- -- Work through individual data, chunking -- -- -- -- --
         indivs_data_length = utilities.get_filelength(self.indivspath)
         chunk_size = indivs_data_length // num_chunks + 1
@@ -259,34 +259,45 @@ class CRP_Spending_Data():
             party_receipts_to_add = party_indivs_data.groupby(['RecipID', 'RealCode'])['Amount'].sum().unstack().fillna(0)
             party_receipts = party_receipts.add(party_receipts_to_add, fill_value = 0).fillna(0)
 
-            time.sleep(0.25)
-
         # -- -- -- -- -- Aggregate all the spending, accounting for where party comittees got their money -- -- -- -- --
 
         # Party Cmtes
-        normalized_party_receipts = party_receipts.divide(party_receipts.sum(axis = 0))
+        normalized_party_receipts = party_receipts.divide(party_receipts.sum(axis = 1), axis = 0)
         extra_receipt_cmtes = [c for c in party_receipts.index if c not in party_spending.index]
         extra_spending_cmtes = [c for c in party_spending.index if c not in party_receipts.index]
         party_spending = party_spending.append(pd.DataFrame(0, index = extra_receipt_cmtes, columns = party_spending.columns)).sort_index().T
-        #print(party_spending)
-        #print('_______________________________________________')
         normalized_party_receipts = normalized_party_receipts.append(pd.DataFrame(0, index = extra_spending_cmtes, columns = normalized_party_receipts.columns)).sort_index()
         final_party_contributions = party_spending.dot(normalized_party_receipts)
-        #print(final_party_contributions)
         final_spending = simple_spending.add(final_party_contributions, fill_value = 0).fillna(0)
+        print(final_spending.values.sum())
 
-        # In final spending, account for cmtes
+        # In final spending, account for cmtes. After experimentation, I discovered that most of the cmtes which come from
+        # party contributions result from inter-party transactions, i.e. transactions between Z5 or J1 cmtes. The cmtes
+        # which come from simple contributions are mostly individuals donating to non-candidate pacs, i.e. an auto worker
+        # donating to an auto worker labor union.
+
+        # In practice, this means we just ignore all of the cmtes which are not associated with candidates.  Start by
+        # identifying cand cmtes in final spending column
         cmtes_data = self.read_cmtes(subset='CmteID').set_index('CmteID')
-        some_cmtes = [c for c in final_spending.index if c in cmtes_data.index]
-        cmtes_data.loc[some_cmtes].to_csv('Exploration/extra_cmtes.csv')
+        cand_cmtes = [c for c in final_spending.index if c in cmtes_data.index]
+        cand_cmtes = [c for c in cand_cmtes if cmtes_data.loc[c, 'RecipID'][0] == 'N']
 
+        # Convert cand_cmtes spending to cand ids; drop other cmtes, etc.
+        spending_to_convert = final_spending.loc[cand_cmtes]
+        spending_to_convert.index = spending_to_convert.index.map(lambda x: cmtes_data.loc[x, 'RecipID'])
+        final_spending = final_spending.loc[(~final_spending.index.isin(cand_cmtes)) & (final_spending.index.to_series().apply(lambda x: str(x)[0] == 'N'))]
+        final_spending = final_spending.add(spending_to_convert, fill_value = 0).fillna(0)
+
+        # We're done! Cache and return :)
+        return final_spending
 
 
 
 if __name__ == '__main__':
 
-    data = CRP_Spending_Data(2010)
-    data.tabulate_spending_totals(valid_types = for_spending_types, num_chunks=1)
+    data = CRP_Spending_Data(2016)
+    spending = data.tabulate_spending_totals(valid_types = for_spending_types, num_chunks=10)
+    print(spending.values.sum())
 
 
 # Generate paths for recipient outfiles --
